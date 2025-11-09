@@ -1,0 +1,10 @@
+Session 8- 
+Encoding Techniques Performed
+   1. Ordinal Encoding -> R2 score -> Mainly works with tree based model
+   2. One Hot Encoding -> R2 score -> Mainly works with Linear Model
+   3. Target Encoding  -> R2 score -> Works with tree based model
+Compare all three and use one of them
+
+
+Things I observed --
+  1. The mean absolute error for Ordinal Enocoding is near to 0.94 which means it is doing mistakes nearly  to 94 lakhs
