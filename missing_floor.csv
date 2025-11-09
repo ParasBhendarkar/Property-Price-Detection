@@ -1,0 +1,1013 @@
+,property_type,society,sector,price,price_per_sqft,bedRoom,bathroom,balcony,floorNum,facing,agePossession,built_up_area,study room,servant room,store room,pooja room,others,furnishing_type,luxury_score
+14,flat,prime habitat,sector 99a,0.32,4658.0,2,2,1,7.0,,Relatively New,601.0,0,0,0,0,0,2,44
+16,flat,maruti kunj,sector 11,0.8,5161.0,3,2,No,0.0,,Old Property,1395.0,0,0,0,0,0,2,8
+20,flat,antriksh heights,sector 84,0.9,4444.0,3,3,3,18.0,,Relatively New,1823.0,0,1,0,1,0,2,59
+23,flat,aipl joy square,sector 63a,0.7,10101.0,1,1,No,7.0,,Undefined,693.0,0,0,0,0,0,2,0
+24,flat,shyam apartment,sector 3,0.26,3714.0,2,1,2,2.0,,Relatively New,609.0,0,0,0,0,0,2,0
+25,flat,gls arawali homes,sohna road,0.35,7000.0,2,2,2,5.0,,Relatively New,556.0,0,0,0,0,0,2,30
+26,flat,pareena laxmi apartments,sector 99a,0.32,5787.0,2,2,2,11.0,,New Property,501.0,0,0,0,0,0,2,66
+27,flat,lotus elise,sector 99,0.95,6552.0,2,3,3,7.0,,Relatively New,1611.0,0,1,0,0,0,2,0
+29,house,independent,sector 13,0.45,4808.0,1,1,0,1.0,,Undefined,936.0,0,0,0,0,0,2,0
+31,flat,umang monsoon breeze,sector 78,1.2,6494.0,3,3,2,8.0,,Moderately Old,2039.0,0,0,0,1,0,0,8
+40,house,independent,sector 50,7.0,32407.0,3,2,0,1.0,,Undefined,2160.0,0,0,0,0,0,2,0
+44,house,independent,sector 25,11.0,35530.0,5,5,3+,2.0,,Relatively New,3096.0,1,1,1,1,0,2,29
+45,flat,pareena coban residences,sector 99a,1.4,7011.0,3,5,3+,6.0,,New Property,1797.0,0,0,0,0,0,2,15
+48,house,independent,sector 3 phase 2,1.0,11111.0,3,4,2,2.0,,Relatively New,900.0,0,0,0,0,0,2,0
+49,flat,mvn athens,sohna road,0.25,4259.0,2,2,1,0.0,,Relatively New,587.0,0,0,0,0,0,2,38
+51,flat,ild grand centra,sector 37c,0.95,5220.0,3,1,No,0.0,,Undefined,1820.0,0,0,0,0,0,2,0
+60,flat,ansal housing highland park,sector 103,2.0,7491.0,4,5,3+,14.0,,New Property,2403.0,0,1,0,0,0,2,45
+61,house,dlf the grove,sector 54,5.7,23457.0,4,4,0,1.0,,Undefined,2430.0,0,0,0,0,0,2,46
+64,flat,ild greens,sector 37c,0.95,5067.0,3,3,3+,0.0,,New Property,1688.0,0,0,0,0,0,2,51
+67,flat,tulip monsella,sector 53,7.4,33199.0,4,4,3,21.0,,Undefined,2477.0,0,0,0,0,0,2,35
+68,house,shri shyam residency,sector 104,0.62,12400.0,3,3,1,2.0,,Moderately Old,900.0,0,0,0,0,1,0,8
+71,flat,sare homes,sector 92,0.65,4587.0,3,3,2,3.0,,Relatively New,1574.0,0,0,0,0,0,2,6
+79,flat,ats triumph,sector 104,2.0,8734.0,3,4,3+,4.0,,Relatively New,2061.0,0,1,0,0,0,2,60
+85,flat,karmyogi apartment,sector 10a,2.3,6466.0,6,4,2,6.0,,Moderately Old,3951.0,0,0,0,0,0,2,0
+86,flat,global hill view,sector 11,0.33,4269.0,2,2,No,11.0,,Undefined,761.0,0,0,0,0,0,2,0
+88,flat,ansal api sushant estate,sector 52,0.29,11600.0,1,1,No,0.0,,Moderately Old,278.0,0,0,0,0,0,1,49
+89,flat,adani m2k oyster grande,sector 102,1.9,14074.0,3,4,3,21.0,,Relatively New,1600.0,0,1,0,0,0,2,60
+91,flat,pareena coban residences,sector 99a,1.3,6510.0,3,3,No,16.0,,Undefined,1997.0,0,0,0,0,0,2,0
+105,flat,ambience creacions,sector 22,1.75,12700.0,2,2,2,11.0,,Undefined,1242.0,0,0,0,0,0,2,57
+106,flat,smart world orchard,sector 61,2.54,15497.0,3,3,3,2.0,,Undefined,1639.0,0,0,1,0,0,2,16
+113,house,international city by sobha phase 1,sector 109,6.1,25103.0,5,6,3+,2.0,,Moderately Old,2430.0,0,1,0,0,0,2,30
+122,house,independent,sector 25,8.0,8000.0,3,9,2,3.0,,New Property,11111.0,0,0,0,0,0,2,0
+123,flat,m3m heights,sector 65,2.44,13297.0,3,3,2,7.0,,Undefined,1645.0,0,0,0,0,0,2,31
+125,flat,emaar gurgaon greens,sector 102,1.6,9697.0,3,3,3,8.0,,Relatively New,1311.0,0,0,0,0,0,2,46
+126,flat,m3m sierra 68,sector 68,1.25,10246.0,2,2,3,4.0,,New Property,935.0,0,0,0,0,0,2,44
+140,flat,smart world one,dwarka expressway,1.65,5933.0,3,4,3,6.0,,Undefined,3094.0,0,0,0,0,0,2,0
+144,flat,unitech vistas,sector 70,0.53,4801.0,2,2,2,9.0,,Undefined,986.0,0,0,0,0,1,2,24
+146,flat,central park flower valley,sector 33,3.3,13750.0,3,3,3,2.0,,Undefined,2667.0,1,1,1,1,0,2,61
+153,flat,smart world orchard,sector 61,2.0,12912.0,3,3,2,3.0,,New Property,1721.0,0,0,0,0,1,2,61
+154,flat,signature global solera 2,sector 107,0.5,8929.0,2,2,2,13.0,,New Property,622.0,0,0,0,0,0,2,8
+155,flat,bestech park view ananda,sector 81,1.45,8735.0,3,2,3+,3.0,,Relatively New,1348.0,0,0,0,0,1,2,45
+156,flat,signature global the millennia 3,sector 37d,0.45,7627.0,2,3,2,8.0,,Undefined,656.0,0,0,0,0,0,2,8
+157,flat,m3m heights,sector 65,2.29,15980.0,2,2,3,8.0,,Undefined,1592.0,1,0,0,0,0,2,15
+164,flat,signature global park,sohna road,0.65,7908.0,2,1,2,3.0,,New Property,913.0,0,0,0,0,0,2,87
+166,house,independent,sector 50,10.56,32593.0,5,5,3,3.0,,Moderately Old,3240.0,0,1,0,0,0,2,20
+170,house,birla navya,sector 63a,3.85,15437.0,3,3,3+,4.0,,New Property,2771.0,0,1,0,0,0,1,160
+178,flat,sare crescent parc royal greens phase 1,sector 92,1.0,3713.0,4,4,3,15.0,,New Property,1818.0,0,0,0,0,0,2,31
+185,house,independent,sector 12,1.5,11111.0,5,5,2,3.0,,Old Property,1350.0,0,0,0,0,0,2,16
+186,flat,whiteland blissville,sector 76,1.92,11794.0,3,3,2,3.0,,Undefined,1628.0,0,0,0,0,0,2,61
+187,flat,godrej air,sector 85,1.35,13636.0,2,2,3,19.0,,Undefined,102.0,0,0,0,0,0,2,44
+189,flat,godrej nature plus,sector 33,1.67,10503.0,3,2,2,18.0,,Undefined,1857.0,0,0,0,0,0,2,67
+193,house,ansals palam vihar,sector 2,2.75,17662.0,3,3,3,2.0,,Moderately Old,1557.0,1,0,0,1,0,1,15
+196,house,independent,sector 7,1.2,11194.0,2,4,2,3.0,,Undefined,1072.0,0,0,0,0,0,2,0
+198,house,independent,sector 11,1.35,3857.0,10,6,3+,3.0,,Old Property,3500.0,0,0,0,0,0,2,0
+204,flat,oriental valley chs,sector 9a,1.5,8108.0,4,3,3+,8.0,,Moderately Old,2056.0,0,0,0,0,0,2,35
+205,flat,lotus homz,sector 111,0.36,8889.0,1,1,1,10.0,,Relatively New,450.0,0,0,0,0,0,2,44
+210,flat,gls arawali homes,sohna road,0.3,4688.0,2,2,2,4.0,,Relatively New,711.0,0,0,0,0,0,2,42
+218,flat,essel towers,sector 14,2.2,12500.0,3,4,3+,3.0,,Undefined,1956.0,0,0,0,0,0,2,0
+219,flat,mapsko casa bella,sector 82,1.25,6378.0,3,4,3+,8.0,,Under Construction,1764.0,0,0,0,0,0,2,54
+221,house,unitech espace,sector 50,7.45,34491.0,4,4,3,3.0,,Old Property,4500.0,0,1,0,0,0,1,59
+224,flat,pareena coban residences,sector 99a,1.35,6760.0,3,5,3,6.0,,New Property,1797.0,0,1,0,0,1,2,60
+226,house,independent,sector 8,0.62,11273.0,3,1,0,2.0,,Undefined,550.0,0,0,0,0,0,2,0
+232,flat,tata primanti,sector 72,3.4,15561.0,3,4,3+,9.0,,Moderately Old,2185.0,0,1,0,0,0,2,38
+233,flat,signature global park,sohna road,0.79,7308.0,3,2,3+,4.0,,Undefined,973.0,0,0,0,0,0,2,109
+234,house,ansal celebrity homes,sector 2,5.2,10000.0,4,5,2,1.0,,Undefined,5200.0,0,0,0,0,0,2,0
+238,flat,sare homes,sector 92,0.6,5000.0,3,2,3,4.0,,Moderately Old,1333.0,0,0,0,0,0,1,49
+243,flat,tulip ivory,sector 70,5.0,10417.0,6,7,3+,0.0,,Relatively New,5333.0,1,1,0,0,0,2,119
+244,flat,signature global grand iva,sector 103,0.5,6250.0,2,2,2,10.0,,Relatively New,696.0,0,0,0,0,0,2,8
+248,flat,rof ananda,sector 95,0.38,5901.0,2,2,2,5.0,,Relatively New,716.0,1,0,0,0,0,2,83
+250,flat,smart world orchard,sector 61,2.2,13497.0,3,3,2,3.0,,Undefined,1811.0,0,0,0,0,0,2,16
+256,flat,signature global city 63a,sector 63a,1.55,14776.0,2,2,2,2.0,,Under Construction,1167.0,0,0,0,0,0,2,0
+257,flat,rof ananda,sector 95,0.25,6579.0,1,1,1,4.0,,New Property,342.0,0,0,0,0,0,2,0
+259,flat,central park flower valley,sector 33,1.4,21538.0,3,3,3,2.0,,Under Construction,585.0,0,0,0,0,0,2,54
+265,house,independent,sector 4,0.65,11111.0,4,2,2,2.0,,Moderately Old,585.0,0,0,0,0,0,2,0
+268,house,independent,sector 7,2.25,16892.0,5,3,0,2.0,,Undefined,148.0,0,0,0,0,0,2,0
+272,flat,malibu towers,sector 47,2.45,10699.0,3,4,2,1.0,,Old Property,2544.0,1,0,0,0,0,1,42
+273,house,mian wali,sector 12,1.7,9444.0,1,1,1,1.0,,Old Property,1800.0,0,1,0,0,0,2,7
+274,flat,godrej summit,sector 104,1.3,7893.0,3,3,3,8.0,,New Property,1482.0,0,0,0,0,1,2,103
+282,flat,godrej frontier,sector 80,1.6,6999.0,3,3,3,5.0,,Moderately Old,2036.0,0,1,0,0,0,2,53
+292,house,row house,sector 105,0.43,9130.0,3,3,3,2.0,,Relatively New,1050.0,0,0,0,0,0,2,0
+311,house,independent,sector 4,0.55,6815.0,2,1,1,1.0,,Moderately Old,75.0,0,0,0,0,0,2,0
+316,flat,assotech blith,sector 99,1.6,6667.0,3,4,No,15.0,,Undefined,2400.0,0,0,0,0,0,2,51
+320,flat,shapoorji pallonji joyville gurugram,sector 102,1.1,12182.0,2,2,1,8.0,,Undefined,813.0,0,0,0,0,0,2,105
+322,house,independent,sector 4,1.25,8681.0,2,3,0,1.0,,Undefined,160.0,0,0,0,0,0,2,0
+324,flat,shapoorji pallonji joyville gurugram,sector 102,1.35,14754.0,2,2,2,10.0,,Undefined,824.0,0,0,0,0,0,2,22
+325,flat,pyramid elite,sector 86,0.45,7840.0,2,2,1,12.0,,Undefined,637.0,0,0,0,0,0,2,30
+327,flat,emaar digihomes,sector 62,2.15,14257.0,2,2,3,31.0,,Undefined,1676.0,0,0,0,0,0,2,101
+329,flat,shapoorji pallonji joyville gurugram,sector 102,0.97,10601.0,2,2,2,12.0,,New Property,745.0,0,0,0,0,0,2,57
+339,flat,ramprastha the atrium,sector 37d,1.0,7782.0,3,3,2,4.0,,Relatively New,1157.0,0,0,0,0,0,2,13
+343,flat,mapsko mount ville,sector 79,1.65,9091.0,3,3,No,12.0,,Undefined,1815.0,0,0,0,0,0,2,0
+347,house,independent,sector 8,0.59,10085.0,2,2,2,2.0,,Moderately Old,585.0,0,0,0,0,1,2,7
+350,flat,signature the serenas,sohna road,0.42,7910.0,2,2,1,12.0,,New Property,590.0,0,0,0,0,0,2,54
+354,flat,pareena laxmi apartments,sector 99a,0.32,6107.0,2,2,2,2.0,,New Property,472.0,0,0,0,0,0,2,50
+356,flat,sare homes,new,0.85,4786.0,4,4,3,3.0,,Moderately Old,1599.0,0,0,0,0,0,2,0
+357,flat,paras quartier,gwal pahari,5.9,11028.0,4,4,3+,0.0,,Moderately Old,5350.0,0,0,0,0,0,2,63
+365,flat,gls arawali homes,sohna road,0.28,4308.0,2,2,2,12.0,,New Property,585.0,0,0,0,0,0,2,0
+369,flat,vipul lavanya,sector 81,1.0,8000.0,2,2,2,7.0,,Relatively New,1125.0,0,0,0,0,0,2,31
+370,flat,signature global solera 2,sector 107,0.37,6679.0,2,2,2,9.0,,New Property,615.0,0,0,0,0,0,2,23
+371,flat,shapoorji pallonji joyville gurugram,sector 102,2.12,16960.0,3,3,3,9.0,,Relatively New,1852.0,0,0,0,0,0,2,72
+374,flat,shree vardhman victoria,sector 70,1.75,8974.0,3,5,No,0.0,,Undefined,1950.0,0,0,0,0,0,2,47
+377,flat,assotech blith,sector 99,0.92,6740.0,2,2,3+,22.0,,Under Construction,1229.0,0,0,0,0,0,2,56
+389,flat,ramsons kshitij,sector 95,0.35,5495.0,2,2,No,5.0,,Undefined,637.0,0,0,0,0,0,2,0
+390,flat,signature global city 92,sector 92,0.78,11143.0,2,2,3,2.0,,Undefined,843.0,0,0,0,0,1,2,24
+392,flat,smart world orchard,sector 61,2.45,15796.0,3,3,3,3.0,,New Property,1219.0,1,1,0,0,0,2,119
+395,flat,conscient elevate,sector 59,3.9,16993.0,3,1,No,0.0,,Undefined,2295.0,0,0,0,0,0,2,0
+401,flat,nbcc heights,sector 89,1.5,7059.0,3,3,3,8.0,,Relatively New,1913.0,1,1,0,0,0,2,105
+402,house,independent,sector 31,3.25,22429.0,4,4,3+,3.0,,Moderately Old,1449.0,1,1,1,1,0,1,29
+403,flat,aditya apartment,manesar,1.0,4032.0,3,4,No,3.0,,New Property,2480.0,0,0,0,0,0,2,0
+406,flat,spaze privy,sector 72,1.9,9620.0,3,3,3,10.0,,Moderately Old,1778.0,0,1,0,0,0,1,31
+407,flat,samadhan shri kamal cghs,sector 1,2.01,11427.0,4,4,3+,10.0,,Moderately Old,1956.0,0,0,0,0,0,0,0
+408,flat,dlf new town heights,sector 91,1.8,7679.0,4,4,3+,6.0,,Moderately Old,2604.0,0,1,0,1,0,2,81
+410,flat,green court,new,0.38,5507.0,2,2,1,7.0,,Undefined,767.0,0,0,0,0,0,2,35
+415,house,independent,sector 7,1.95,13542.0,2,2,2,2.0,,Old Property,1440.0,0,0,0,0,0,2,0
+416,flat,bestech altura,sector 79,2.69,12500.0,3,4,3+,3.0,,New Property,2152.0,0,1,0,0,0,2,49
+417,flat,m3m heights,sector 65,2.0,13957.0,2,2,2,32.0,,Undefined,1433.0,0,0,0,0,0,2,48
+420,flat,assotech blith,sector 99,0.82,6007.0,2,2,3,0.0,,Undefined,1365.0,0,0,0,0,0,2,51
+421,flat,suncity heights,sector 54,3.85,16446.0,3,3,3+,8.0,,Old Property,2107.0,0,1,0,0,0,2,67
+424,flat,mapsko mount ville,sector 79,1.85,9640.0,3,4,3,21.0,,New Property,1634.0,0,1,0,1,0,2,49
+429,flat,m3m soulitude,sector 89,1.25,8784.0,3,3,2,3.0,,New Property,1581.0,1,0,0,0,0,2,49
+430,flat,sare petioles,sector 92,1.3,6373.0,4,4,No,7.0,,Undefined,2040.0,0,0,0,0,0,2,0
+431,flat,smart world orchard,sector 61,2.24,14461.0,3,3,2,3.0,,New Property,1394.0,0,0,0,0,1,2,61
+435,flat,valley view estate,gwal pahari,0.38,6090.0,1,1,1,11.0,,Moderately Old,562.0,0,0,0,0,0,2,42
+443,flat,m3m antalya hills,sector 79,1.15,7497.0,3,3,3+,1.0,,Undefined,1200.0,1,0,0,0,0,2,51
+450,flat,shree vardhman flora,sector 90,0.8,5926.0,2,3,2,0.0,,Undefined,1350.0,0,0,0,0,0,2,60
+453,flat,supertech hilltown,sector 2,0.8,5556.0,3,2,3,8.0,,Undefined,1440.0,0,0,0,0,0,2,0
+454,flat,green homes,sector 52,1.85,7872.0,3,3,3,7.0,,Moderately Old,2115.0,0,1,0,0,0,2,28
+457,flat,uphaar homes,sector 105,0.45,4737.0,3,2,1,1.0,,Relatively New,1056.0,0,0,0,0,0,1,44
+461,flat,paras dews,sector 106,1.4,6001.0,3,4,3+,12.0,,Undefined,1584.0,1,1,0,0,1,2,55
+467,flat,raheja vedaanta,sector 108,1.25,5682.0,3,2,No,0.0,,Relatively New,1980.0,0,0,0,0,0,1,65
+469,house,independent,sector 47,4.3,29312.0,3,4,2,2.0,,Moderately Old,1467.0,0,0,0,0,1,2,0
+470,house,sare crescent parc royal greens phase 1,sector 92,0.85,4877.0,4,4,3,4.0,,Undefined,1743.0,0,0,0,0,0,2,0
+478,flat,signature global orchard avenue,sector 93,0.85,14238.0,2,2,No,10.0,,Undefined,597.0,0,0,0,0,0,2,0
+482,flat,central park 2 bellevue,sector 48,2.75,10755.0,3,4,3+,3.0,,Moderately Old,2567.0,0,0,0,0,0,2,32
+483,flat,huda ashok vihar phase,sector 4,0.43,6615.0,2,2,1,2.0,,Relatively New,722.0,0,0,0,0,0,2,7
+487,house,unitech uniworld resorts,sector 33,11.0,26667.0,5,6,3,3.0,,New Property,4125.0,1,1,0,0,0,2,58
+500,flat,gls arawali homes,sohna road,0.35,6076.0,2,2,2,11.0,,Relatively New,526.0,0,0,0,0,0,2,64
+502,flat,tulip monsella,sector 53,6.02,20816.0,3,3,3,29.0,,Undefined,2892.0,0,0,0,0,0,2,68
+505,flat,supertech araville,sector 79,0.9,6950.0,2,2,No,12.0,,Undefined,1295.0,0,0,0,0,0,2,0
+510,flat,raheja sampada,sector 92,0.7,4453.0,3,3,No,7.0,,Undefined,1572.0,0,0,0,0,0,2,0
+513,flat,breez global heights,sohna road,0.25,7003.0,1,1,1,1.0,,Relatively New,385.0,0,0,0,0,0,2,57
+517,house,hero homes,sector 104,1.95,21196.0,3,5,3+,2.0,,Moderately Old,920.0,0,0,0,0,0,2,64
+518,flat,ss almeria,sector 84,1.5,7500.0,3,3,3,2.0,,New Property,1845.0,0,1,0,0,0,2,108
+521,house,independent,sector 23,1.2,6231.0,3,2,2,3.0,,New Property,1500.0,0,0,0,0,0,1,79
+525,house,surendra homes dayaindependentd colony,sector 6,0.75,15625.0,4,4,2,1.0,,Undefined,480.0,0,0,0,0,0,2,0
+526,house,independent,sector 6,0.75,10519.0,2,4,1,3.0,,Moderately Old,713.0,0,0,0,0,0,2,62
+547,flat,dhoot time residency,sector 63,3.0,18270.0,3,3,3+,14.0,,Relatively New,1642.0,0,1,0,0,0,1,0
+550,flat,gls avenue 51,sector 92,0.45,7614.0,2,2,1,10.0,,New Property,646.0,1,0,0,0,0,1,20
+555,flat,smart world orchard,sector 61,1.41,12250.0,2,2,2,2.0,,Undefined,1150.0,1,0,0,0,0,2,76
+557,flat,micasa sec 68,sohna road road,1.5,12245.0,2,2,3,11.0,,New Property,1361.0,0,0,0,0,0,2,44
+567,flat,dlf icon,sector 43,5.8,20707.0,4,4,3+,18.0,,Undefined,2801.0,0,0,0,0,0,2,0
+569,flat,shree vardhman victoria,sector 70,1.75,8204.0,3,5,3,7.0,,New Property,1523.0,0,1,0,1,0,2,37
+570,flat,hero homes,sector 104,1.2,17544.0,2,2,2,22.0,,Undefined,875.0,0,0,0,0,0,2,30
+572,flat,vatika independent floors,sector 82,0.67,5826.0,2,2,3,2.0,,Moderately Old,1150.0,0,0,0,0,0,2,53
+573,house,tata primanti4.1 â˜…,sector 72,8.6,12286.0,4,5,3+,3.0,,Relatively New,7000.0,0,0,0,0,0,1,30
+575,flat,sidhartha ncr one,sector 95,0.57,4179.0,2,2,2,10.0,,Undefined,1364.0,0,0,0,0,0,2,0
+584,house,vipul tatvam villa,sector 48,8.5,26235.0,4,4,1,2.0,,Relatively New,3240.0,0,0,0,0,0,2,21
+589,flat,hcbs sports ville,sohna road,0.25,4167.0,1,1,1,12.0,,Relatively New,600.0,0,0,0,0,0,2,37
+590,house,dlf city plot phase 4,sector 28,13.0,17931.0,10,10,3+,1.0,,Undefined,8056.0,0,0,0,0,0,2,0
+591,house,independent,sector 28,4.5,13889.0,4,4,0,4.0,,Undefined,3240.0,0,0,0,0,0,2,0
+593,flat,m3m heights,sector 65,2.1,16653.0,2,2,3,8.0,,New Property,1012.0,0,0,0,0,0,2,31
+596,house,signature global park4.0 â˜…,sohna road,0.85,7589.0,3,2,2,1.0,,Undefined,1120.0,0,0,0,0,0,2,15
+598,flat,m3m the marina,sector 68,1.0,12500.0,2,2,3,21.0,,Relatively New,889.0,0,0,0,0,0,2,31
+599,flat,smart world gems,sector 89,1.16,10498.0,3,2,3,1.0,,New Property,993.0,1,0,0,0,0,2,49
+601,flat,ansal heights 86,sector 86,1.25,7396.0,3,2,1,2.0,,New Property,1521.0,0,0,0,0,0,2,100
+603,flat,sare green parc phase 3,sector 92,1.08,5150.0,4,4,2,16.0,,New Property,1881.0,0,1,0,0,0,2,107
+604,house,independent,sector 26,15.0,33333.0,4,4,3,3.0,,Moderately Old,4500.0,0,1,1,0,0,1,36
+611,flat,birla navya,sector 63a,2.1,16667.0,2,2,2,2.0,,Undefined,1400.0,0,0,0,0,0,2,38
+612,flat,m3m woodshire,sector 107,1.3,10815.0,3,3,3,7.0,,Relatively New,1542.0,0,0,0,1,0,2,89
+615,flat,m3m skywalk,sector 74,1.5,10714.0,2,2,1,8.0,,New Property,1556.0,0,0,0,0,0,2,16
+616,flat,vatika sovereign next,sector 82a,3.85,7500.0,5,6,3+,6.0,,New Property,5711.0,0,1,0,1,0,2,148
+620,house,independent,sector 3 phase 3 extension,0.85,8500.0,1,1,0,1.0,,Undefined,1000.0,0,0,0,0,0,2,0
+622,flat,czar mahira homes 63a,sector 63a,0.42,7407.0,3,2,2,1.0,,Undefined,630.0,0,0,0,0,0,2,0
+626,flat,sare crescent parc,sector 92,1.0,4778.0,4,4,3,9.0,,Undefined,2093.0,0,0,0,0,0,2,0
+634,flat,palam vihar extension west zone rwa,sector 2,0.2,4000.0,1,1,1,1.0,,Moderately Old,556.0,0,0,0,0,1,2,0
+637,house,independent,sector 3,0.92,15257.0,4,1,0,1.0,,Undefined,603.0,0,0,0,0,0,2,0
+641,house,dlf gardencity enclave,sector 93,1.3,11285.0,3,2,1,3.0,,Relatively New,1152.0,0,0,0,0,0,2,50
+644,flat,parsvnath green ville,sector 48,2.0,7764.0,3,3,No,15.0,,Relatively New,1913.0,0,1,0,0,0,2,74
+656,house,independent,sector 39,0.34,7556.0,1,1,1,1.0,,Undefined,450.0,0,0,0,0,0,2,0
+657,flat,ramprastha the edge towers,sector 37d,1.0,5650.0,3,3,3+,13.0,,Moderately Old,1593.0,0,0,0,0,0,2,38
+659,house,ats tourmaline3.9 â˜…,sector 109,1.87,8698.0,3,4,0,12.0,,Undefined,2150.0,0,0,0,0,0,2,0
+664,flat,m3m skywalk,sector 74,1.6,11380.0,2,2,2,28.0,,New Property,1266.0,0,0,0,0,0,2,15
+665,flat,smart world gems,sector 89,1.0,9009.0,2,2,3,3.0,,New Property,1233.0,1,0,0,0,1,2,99
+667,flat,pareena mi casa,sector 68,1.0,8163.0,2,2,2,16.0,,New Property,1361.0,0,1,0,0,0,2,65
+669,flat,m3m one key resiments,sector 67,0.8,13115.0,1,1,No,0.0,,Undefined,610.0,0,0,0,0,0,2,0
+677,flat,corona gracieux,sector 76,0.75,5660.0,2,2,3,13.0,,Relatively New,1193.0,0,0,0,0,0,1,0
+678,flat,emaar palm premier,sector 77,2.1,10500.0,3,4,3+,11.0,,New Property,1600.0,0,1,0,0,0,1,129
+681,house,independent,sector 50,6.5,21667.0,5,6,0,1.0,,Undefined,3000.0,0,0,0,0,0,2,0
+684,flat,smart world orchard,sector 61,2.55,15644.0,3,3,2,4.0,,New Property,1630.0,0,0,0,0,1,2,30
+687,flat,godrej summit,sector 104,0.85,6894.0,2,2,3,12.0,,Relatively New,1611.0,1,0,0,0,1,2,61
+689,flat,m3m woodshire,sector 107,0.9,6589.0,2,2,3+,10.0,,Relatively New,1230.0,0,0,0,0,1,1,49
+691,house,independent,sector 47,0.99,17188.0,1,4,3,4.0,,Relatively New,576.0,0,0,0,0,0,2,13
+695,flat,raheja navodaya,sector 92,0.62,4806.0,2,2,2,5.0,,New Property,1498.0,0,0,0,0,0,2,0
+696,house,independent,sector 7,0.53,5889.0,2,2,0,1.0,,Undefined,900.0,0,0,0,0,0,2,0
+700,flat,ss residency,sector 12,0.53,4818.0,3,3,2,2.0,,Relatively New,990.0,0,0,0,0,0,1,14
+701,flat,conscient one,sector 109,1.7,17617.0,1,1,2,9.0,,Undefined,965.0,0,0,0,0,0,2,0
+708,flat,godrej aria,sector 79,1.3,8844.0,2,2,2,7.0,,Relatively New,1323.0,1,0,0,0,0,1,116
+709,flat,tulip violet,sector 69,2.0,10168.0,4,4,1,12.0,,Relatively New,2186.0,0,0,0,0,0,2,79
+711,house,ansal api esencia3.7 â˜…,sector 67,1.85,8222.0,3,3,3,1.0,,Undefined,278.0,0,0,0,0,0,2,0
+717,house,independent,sector 4,0.6,11696.0,3,3,1,2.0,,Old Property,57.0,0,0,0,0,1,2,0
+718,flat,unitech heritage city,sector 14,4.26,13108.0,4,4,No,9.0,,Undefined,3250.0,0,0,0,0,0,2,0
+719,flat,raheja atharva,sector 109,1.6,5319.0,4,1,No,0.0,,New Property,3008.0,0,0,0,0,0,2,0
+721,flat,eldeco accolade,sohna road,1.35,6136.0,3,3,3,2.0,,New Property,2444.0,0,1,0,0,0,2,72
+722,flat,ansal plaza,sector 2,1.0,10000.0,2,3,No,1.0,,Undefined,1000.0,0,0,0,0,0,2,0
+727,flat,bptp mansions park prime,sector 66,2.7,9768.0,4,4,3,6.0,,Relatively New,2488.0,0,1,0,0,1,2,13
+728,flat,vatika india next,sector 82,0.8,6426.0,2,2,3,9.0,,Undefined,1383.0,0,0,0,0,0,2,0
+729,flat,emaar palm heights,sector 77,2.25,11250.0,3,3,3,22.0,,New Property,1800.0,0,1,0,0,0,1,42
+732,flat,bhemerlei,sohna road road,0.69,5100.0,2,2,2,3.0,,Undefined,1350.0,0,0,0,0,0,2,0
+736,house,ansals florence villa,sector 57,6.0,22222.0,4,5,2,2.0,,Old Property,2700.0,0,1,0,1,0,1,20
+738,flat,signature global rosellia,sector 95,0.45,8755.0,2,2,2,14.0,,New Property,571.0,0,0,0,0,0,2,24
+741,flat,whiteland blissville,sector 76,1.92,11497.0,3,3,2,2.0,,Undefined,1672.0,0,0,0,0,0,2,61
+742,flat,sidhartha ncr one phase,sector 95,0.55,4867.0,2,2,2,14.0,,New Property,1256.0,1,0,0,0,0,2,90
+743,house,independent,sector 12,0.38,4222.0,3,3,3,3.0,,Relatively New,900.0,0,0,0,0,0,2,0
+745,flat,ashiana mulberry,sohna road,0.95,6485.0,2,2,3+,3.0,,New Property,1175.97,1,0,0,0,0,2,89
+752,flat,godrej nature plus,sector 33,1.65,8267.0,3,3,3,2.0,,Undefined,2218.0,0,1,0,0,0,2,37
+753,flat,m3m soulitude,sector 89,1.28,8828.0,3,3,2,4.0,,Undefined,1611.0,1,0,0,0,0,2,114
+754,flat,sare crescent parc,sector 92,0.9,4259.0,4,5,3+,3.0,,Relatively New,1796.0,0,1,0,0,0,2,0
+757,flat,m3m soulitude,sector 89,1.32,16923.0,3,3,3,1.0,,Undefined,867.0,0,0,0,0,0,2,45
+759,flat,gls arawali homes,sohna road,0.27,4600.0,2,2,2,5.0,,New Property,518.0,0,0,0,0,0,2,42
+760,flat,godrej summit premia towers,sector 104,0.9,7149.0,2,2,No,16.0,,Undefined,1259.0,0,0,0,0,0,2,0
+770,flat,supertech araville,sector 79,0.9,5882.0,2,2,3,5.0,,Relatively New,1450.0,1,0,0,0,0,2,53
+775,flat,ramsons kshitij,sector 95,0.32,4501.0,2,2,1,8.0,,Relatively New,561.0,0,0,0,0,1,0,28
+776,flat,emaar palm gardens,sector 83,1.8,9474.0,3,4,No,9.0,,Undefined,1900.0,0,0,0,0,0,2,55
+778,flat,hero homes,sector 104,1.75,10361.0,3,3,3,2.0,,Undefined,1520.0,0,0,0,0,0,2,30
+780,house,independent,sector 12,0.9,13333.0,2,4,0,2.0,,Undefined,675.0,0,0,0,0,0,2,0
+789,flat,godrej,sector 79,1.29,8206.0,2,2,3,4.0,,New Property,1415.0,0,0,0,0,0,2,0
+798,flat,central park flower valley,sector 33,2.5,13270.0,3,3,2,1.0,,Undefined,2093.0,0,0,0,0,0,2,66
+799,flat,ashiana anmol,sohna road,0.9,7059.0,2,2,2,8.0,,Undefined,1275.0,0,0,0,0,0,2,0
+806,flat,sobha city,sector 108,3.95,16859.0,4,5,3,25.0,,Undefined,2343.0,0,0,0,0,0,2,59
+809,flat,signature global city,sector 37d,1.25,6083.0,3,3,3,4.0,,Undefined,2283.0,0,0,0,0,0,2,16
+827,house,smart world gems,sector 89,1.25,8784.0,3,3,2,1.0,,Undefined,1423.0,1,0,0,0,1,2,45
+828,flat,lig flat,sector 40,1.5,5556.0,1,1,No,0.0,,Undefined,300.0,0,0,0,0,0,2,0
+829,house,independent,sector 6,0.66,10784.0,3,2,1,2.0,,Old Property,612.0,0,0,0,0,0,2,36
+833,house,ansals palam vihar,sector 2,5.0,12500.0,6,4,0,3.0,,Undefined,4000.0,0,0,0,0,0,2,0
+834,flat,ireo the corridors,sector 67a,2.0,11581.0,3,3,2,6.0,,Undefined,1342.0,0,0,0,0,1,2,15
+836,flat,ashiana mulberry,sohna road,0.74,6016.0,2,2,3+,12.0,,Relatively New,1367.0,0,0,0,0,0,2,71
+837,flat,sare crescent parc,sector 92,0.5,5000.0,2,2,3,2.0,,Moderately Old,900.0,0,0,0,0,0,2,38
+840,flat,sidhartha ncr one,sector 95,0.56,4106.0,2,2,2,10.0,,Undefined,1364.0,0,0,0,0,0,2,0
+850,flat,godrej nature plus,sector 33,1.2,13363.0,2,2,No,11.0,,Under Construction,85.0,0,0,0,0,0,2,56
+854,flat,eldeco accolade,sector 33,1.2,8043.0,2,2,2,0.0,,Undefined,1492.0,0,0,0,0,0,2,56
+861,flat,breeze global heights,sector 33,0.4,6421.0,2,2,2,4.0,,Undefined,623.0,0,0,0,0,0,2,0
+865,flat,godrej nature plus,sector 33,1.7,12593.0,3,3,3+,6.0,,New Property,1500.0,0,1,0,0,0,2,38
+866,flat,m3m heights,sector 65,1.99,15794.0,2,2,2,26.0,,Undefined,1134.0,0,0,0,0,0,2,48
+867,flat,eldeco accolade,sohna road,0.85,6725.0,2,2,3,10.0,,New Property,974.0,0,0,0,0,0,2,72
+869,flat,silverglades the melia,sohna road,0.91,6801.0,2,2,3,1.0,,New Property,1215.0,1,0,0,0,0,2,72
+871,flat,pareena coban residences,sector 99a,1.45,7261.0,3,5,3,11.0,,Relatively New,1797.0,0,1,0,0,1,1,49
+875,flat,511 sarahah tower,sector 12,0.6,8333.0,2,2,1,0.0,,New Property,800.0,0,0,0,1,0,0,0
+876,house,independent,sector 26,4.6,12198.0,4,4,3+,2.0,,Old Property,3771.0,0,0,0,0,0,2,28
+887,flat,mvn athens,sohna road,0.26,5394.0,2,2,1,5.0,,Relatively New,535.0,0,0,0,0,0,2,95
+889,flat,m3m sky lofts,sector 71,0.9,13177.0,1,1,No,6.0,,New Property,683.0,0,0,0,0,0,2,77
+892,flat,mahindra luminare,sector 59,5.5,18182.0,3,3,1,26.0,,Undefined,2723.0,0,1,0,0,0,2,24
+893,house,independent,sector 12,1.35,12217.0,2,5,1,3.0,,Old Property,2052.0,0,0,0,0,0,2,31
+896,flat,sbr apartment,manesar,0.68,4456.0,3,3,3,2.0,,Moderately Old,1526.0,0,0,0,0,0,2,0
+897,flat,bptp terra,sector 37d,1.95,14444.0,4,3,3,7.0,,Undefined,1650.0,0,0,0,0,0,2,53
+901,flat,pareena mi casa,sector 68,1.85,9311.0,3,3,3+,13.0,,Undefined,1788.0,0,0,0,0,0,2,47
+902,flat,ireo the corridors,sector 67a,2.0,11429.0,3,3,3,12.0,,New Property,1575.0,1,0,0,0,0,2,38
+903,house,independent,sector 3,0.68,3875.0,5,3,0,1.0,,Undefined,1755.0,0,0,0,0,0,2,0
+909,flat,assotech blith,sector 99,1.15,6594.0,2,2,2,2.0,,New Property,1229.0,0,0,0,0,1,1,72
+910,flat,avl 36 gurgaon,sector 36a,0.5,8333.0,1,1,1,5.0,,Undefined,600.0,0,0,0,0,0,2,0
+911,flat,godrej,sector 79,2.5,11141.0,3,3,3+,5.0,,Undefined,2244.0,0,0,0,0,0,2,0
+915,flat,lotus homz,sector 111,0.5,14837.0,1,1,1,2.0,,Relatively New,374.0,0,0,0,0,0,0,72
+920,flat,deepak minda,manesar,1.25,4715.0,4,4,3+,6.0,,Moderately Old,2946.0,0,0,0,0,0,1,44
+921,flat,ramsons kshitij,sector 95,0.3,3158.0,2,2,1,11.0,,Undefined,950.0,0,0,0,0,0,2,0
+922,flat,4s aradhya homes,sector 67a,1.9,8862.0,4,4,3,3.0,,New Property,1980.0,0,0,0,0,0,1,62
+923,flat,suncity vatsal valley,gwal pahari,1.0,13333.0,2,2,2,3.0,,New Property,833.0,0,0,0,0,0,1,13
+924,flat,ramprastha city,dwarka expressway,1.3,9286.0,3,3,2,3.0,,Under Construction,1260.0,0,0,0,0,0,2,0
+929,flat,signature global park 4,sector 36,0.82,7586.0,3,2,3,2.0,,New Property,1201.0,0,0,0,0,0,2,24
+936,house,independent,sector 7,0.95,21111.0,2,1,1,3.0,,New Property,450.0,0,0,0,0,0,2,15
+939,house,independent,sector 4,0.47,3518.0,3,4,0,3.0,,Undefined,1350.0,0,0,0,0,0,2,0
+949,house,independent,sector 1,1.85,16003.0,4,3,2,3.0,,Undefined,1284.0,0,0,0,0,0,2,0
+952,house,independent,sector 105,0.38,8444.0,2,2,2,1.0,,Undefined,56.0,0,0,0,0,0,2,0
+959,house,not applicable,sector 4,0.75,11719.0,2,4,3,2.0,,Moderately Old,640.0,0,0,0,0,0,2,0
+963,flat,supertech araville,sector 79,0.78,6023.0,2,2,3+,17.0,,Relatively New,1166.0,0,0,0,0,0,2,24
+964,flat,deepak minda,manesar,1.25,4715.0,3,3,3+,6.0,,Moderately Old,2944.0,0,1,0,0,0,2,44
+967,house,independent,sector 3,0.55,7333.0,1,1,0,1.0,,Undefined,750.0,0,0,0,0,0,2,0
+968,flat,hero homes,sector 104,1.9,11249.0,3,3,3,16.0,,Undefined,1361.0,0,0,0,1,0,1,103
+970,flat,adani brahma samsara vilasa,sector 63,3.35,16470.0,3,3,3+,3.0,,New Property,2034.0,0,0,0,0,0,1,16
+971,flat,smart world gems,sector 89,1.05,9519.0,2,2,2,4.0,,Under Construction,1103.0,1,0,0,0,1,2,38
+972,flat,sushant lok 1 builder floors,sector 43,2.5,12920.0,3,3,2,2.0,,New Property,194.0,0,0,0,0,0,2,0
+975,flat,dlf the arbour,sector 63,7.9,20000.0,4,4,3+,34.0,,Undefined,3950.0,0,0,0,0,0,2,61
+977,flat,m3m woodshire,sector 107,1.01,7394.0,2,2,3+,11.0,,New Property,1200.0,0,0,0,0,1,2,74
+978,flat,godrej habitat,sector 3,1.2,8310.0,2,2,3,0.0,,Undefined,1300.0,0,0,0,0,0,2,60
+979,flat,ansal heights,sector 92,0.6,4545.0,2,2,3,11.0,,Undefined,1188.0,0,0,0,0,1,2,23
+981,flat,gls arawali homes,sohna road,0.28,5983.0,2,2,2,3.0,,Relatively New,520.0,0,0,0,0,0,2,42
+982,flat,greenopolis,sector 89,0.65,5196.0,2,2,2,15.0,,Undefined,1390.0,0,0,0,0,0,2,37
+986,flat,ramprastha primera,sector 37d,1.02,6000.0,3,2,3,22.0,,Undefined,1530.0,0,0,0,0,0,2,43
+988,flat,tulip violet,sector 69,1.65,8871.0,3,3,2,1.0,,Relatively New,1578.0,0,0,0,0,0,1,69
+992,flat,umang winter hills,sector 77,1.0,7502.0,2,2,2,3.0,,New Property,1489.0,0,0,0,0,0,2,74
+994,flat,supertech hues,sector 68,1.0,8475.0,2,2,2,12.0,,New Property,1311.0,0,0,0,0,0,2,54
+997,flat,vipul lavanya,sector 81,0.65,5263.0,2,2,2,14.0,,Moderately Old,982.0,0,0,0,0,0,2,96
+998,flat,godrej aria,sector 79,1.1,11482.0,2,2,3,9.0,,New Property,80.0,0,0,0,0,0,2,62
+1001,flat,signature global park,sohna road,0.68,8252.0,2,2,2,3.0,,New Property,916.0,0,0,0,0,0,2,113
+1002,flat,imperia the esfera,sector 37c,0.86,4886.0,3,3,2,0.0,,New Property,1584.0,0,0,0,0,1,2,35
+1005,flat,godrej nature plus,sector 33,1.31,15976.0,2,2,2,4.0,,Undefined,85.0,0,0,0,0,0,2,92
+1007,flat,sidhartha ncr one phase,sector 95,0.56,4106.0,2,2,2,10.0,,Relatively New,1228.0,0,0,0,0,0,1,60
+1009,flat,m3m capital,sector 113,1.83,13969.0,2,2,No,7.0,,Undefined,1310.0,0,0,0,0,0,2,68
+1010,house,independent,sector 24,1.45,2984.0,3,3,1,2.0,,Old Property,540.0,0,0,0,0,0,2,9
+1012,flat,hcbs sports ville,sohna road,0.32,4301.0,2,2,1,3.0,,Relatively New,744.000768,0,0,0,0,0,2,109
+1013,flat,dlf the skycourt,sector 86,2.2,11500.0,3,3,1,7.0,,Relatively New,1737.0,0,0,0,1,0,0,77
+1014,house,ansal heights3.2 â˜…,sector 92,2.75,9793.0,4,4,3+,3.0,,Relatively New,5000.0,1,0,0,1,0,2,0
+1016,flat,godrej habitat,sector 3,1.1,10407.0,2,2,2,14.0,,Under Construction,951.0,0,0,0,0,0,2,60
+1025,flat,ss the leaf,sector 85,2.7,7754.0,4,4,3+,23.0,,New Property,3134.0,0,0,0,0,0,2,21
+1028,flat,tata gurgaon gateway,sector 113,3.21,11823.0,3,3,3,9.0,,New Property,2268.0,0,0,0,0,0,2,49
+1031,house,sneh vihar,sohna road road,1.35,10000.0,5,5,3+,4.0,,Relatively New,1350.0,0,0,0,0,0,2,0
+1032,flat,ansal heights 86,sector 86,0.9,5325.0,3,3,2,10.0,,New Property,1690.0,0,0,0,0,0,2,29
+1036,flat,vipul world,sector 48,1.38,9485.0,3,3,1,2.0,,Relatively New,1611.0,0,0,0,0,0,2,60
+1037,house,independent,sector 69,0.8,10485.0,1,1,0,1.0,,Undefined,763.0,0,0,0,0,0,2,0
+1044,flat,pyramid urban,sector 67a,0.6,8571.0,2,2,2,14.0,,New Property,630.0,0,0,0,0,0,2,15
+1046,house,project housing board colony,sector 28,2.58,17695.0,4,2,2,2.0,,Undefined,1458.0,0,0,0,0,0,2,0
+1051,flat,eden landmark,manesar,0.5,3846.0,2,2,No,7.0,,Undefined,1300.0,0,0,0,0,0,2,0
+1058,house,independent,sector 11,2.1,17284.0,2,6,3+,3.0,,Relatively New,1215.0,0,0,0,0,0,2,14
+1060,flat,eldeco accolade,sohna road,0.87,5963.0,2,2,3+,10.0,,Relatively New,1127.0,1,0,0,0,0,2,72
+1063,flat,zara aavaas,sector 104,0.65,8519.0,3,2,2,7.0,,New Property,848.0,0,0,0,0,0,2,65
+1064,flat,sidhartha ncr one phase,sector 95,0.46,4646.0,2,2,No,6.0,,Undefined,990.0,0,0,0,0,0,2,0
+1065,house,house number b-34,sector 5,0.8,8889.0,2,2,1,1.0,,Old Property,900.0,0,0,0,0,0,2,0
+1069,flat,central park flower valley,sector 33,2.15,13522.0,3,3,3+,1.0,,New Property,1431.0,0,0,0,0,0,2,31
+1071,house,bhim garh kheri,sector 3,1.5,7576.0,7,2,0,1.0,,Undefined,1980.0,0,0,0,0,0,2,0
+1073,flat,sobha city,sector 108,2.1,13972.0,2,2,2,3.0,,Undefined,1243.0,0,0,0,0,0,2,74
+1075,flat,pioneer park,sector 61,1.6,11594.0,2,2,2,21.0,,Relatively New,1533.0,0,1,0,0,0,2,105
+1077,flat,ansal sushant residency,sector 57,1.5,6775.0,3,2,3+,1.0,,Moderately Old,273.0,0,0,0,0,0,2,87
+1080,flat,m3m skycity,sector 65,2.1,16031.0,2,2,2,43.0,,New Property,1179.0,0,0,0,0,0,2,127
+1081,house,independent,sector 50,11.58,35741.0,5,5,3,2.0,,Moderately Old,3240.0,0,1,0,0,0,2,20
+1087,flat,godrej nature plus,sector 33,1.2,14371.0,2,2,3,1.0,,New Property,86.0,0,0,0,0,0,2,65
+1098,house,independent,sector 3,0.9,10000.0,3,4,3,3.0,,Moderately Old,3500.0,0,0,0,0,1,1,42
+1106,flat,supertech araville,sector 79,1.35,6941.0,3,3,3,4.0,,Relatively New,2161.0,0,0,0,0,0,2,0
+1112,house,independent,sector 55,3.55,24500.0,4,4,3+,2.0,,Old Property,1449.0,0,0,0,0,0,1,27
+1114,flat,hsiidc sidco aravali,manesar,0.9,3478.0,3,3,3,2.0,,Old Property,1900.0,0,1,0,0,0,0,21
+1119,flat,om appartments,sector 3 phase 2,0.4,4444.0,3,2,1,3.0,,Relatively New,1000.0,0,0,0,0,0,2,7
+1120,flat,smart world orchard,sector 61,1.6,13913.0,2,2,2,4.0,,Undefined,1278.0,0,0,0,0,0,2,16
+1124,flat,sare green parc,sector 92,0.85,6538.0,3,2,2,20.0,,Undefined,1300.0,0,0,0,0,0,2,0
+1127,flat,central park resorts,sector 48,15.0,22388.0,5,6,3+,17.0,,Relatively New,7444.0,1,1,0,1,0,0,45
+1134,flat,suposhaa smartworld orchard,sector 61,2.17,14000.0,3,3,3,1.0,,Undefined,1721.0,0,0,0,0,0,2,0
+1139,flat,raheja atharva,sector 109,0.79,7932.0,3,2,2,3.0,,Relatively New,1209.0,0,0,0,0,0,1,44
+1140,flat,signature global synera,sector 81,0.48,8027.0,2,2,1,14.0,,Relatively New,546.0,0,0,0,0,0,1,14
+1147,flat,smriti apartment,sector 56,0.52,10656.0,1,1,1,1.0,,Old Property,473.0,0,0,0,0,0,2,34
+1151,house,independent,sohna road road,0.5,5556.0,2,1,2,1.0,,Moderately Old,900.0,0,0,0,0,0,2,0
+1152,flat,adani aangan galleria,sector 89,0.42,4941.0,2,2,2,3.0,,Relatively New,765.0,0,0,0,0,0,2,0
+1153,flat,m3m golf hills,sector 79,1.45,10211.0,2,2,3,15.0,,Undefined,1578.0,0,0,0,0,0,2,67
+1156,flat,parkwood westend,sector 92,0.7,5204.0,2,2,3,5.0,,Undefined,1211.0,1,0,0,0,0,2,0
+1158,house,rattan garden,sector 7,1.3,13499.0,2,3,2,3.0,,Old Property,963.0,0,0,0,0,0,2,0
+1159,flat,pivotal devaan,sector 84,0.3,6667.0,1,1,1,14.0,,New Property,500.0,0,0,0,0,0,1,22
+1161,flat,smart world gems,sector 89,1.1,9973.0,3,1,No,0.0,,Undefined,1103.0,0,0,0,0,0,2,45
+1162,flat,sare homes,sector 92,0.95,4872.0,4,3,3,13.0,,New Property,1755.0,0,0,0,0,0,2,0
+1164,flat,pareena laxmi apartments,sector 99a,0.32,5517.0,2,2,1,2.0,,New Property,576.0,0,0,0,0,0,2,43
+1165,flat,ansal height 86,sector 86,0.8,5882.0,2,2,No,1.0,,Undefined,1360.0,0,0,0,0,0,2,0
+1166,flat,unitech sunbreeze,sector 69,0.74,5502.0,3,3,1,10.0,,Undefined,1203.0,0,1,0,0,0,2,60
+1170,flat,hsiidc sidco shivalik apartments,manesar,0.85,5102.0,3,2,2,5.0,,Moderately Old,1500.0,0,0,0,0,0,2,0
+1172,flat,bajrang apartments,sector 6,0.38,4471.0,2,2,2,1.0,,Moderately Old,944.0,0,0,0,0,0,2,0
+1176,flat,gls arawali homes,sohna road,0.26,4514.0,2,2,2,4.0,,Relatively New,640.0,0,0,0,0,0,2,42
+1178,house,vipul tatvam villa,sector 48,7.25,22377.0,4,4,3,2.0,,Relatively New,3240.0,1,1,1,1,0,1,103
+1180,flat,m3m skycity,sector 65,1.8,13699.0,2,2,3,13.0,,New Property,1456.0,0,0,0,0,0,2,73
+1184,house,u block dlf phase 3 road no 21,sector 24,1.6,3292.0,7,5,3+,4.0,,Old Property,540.0,0,0,0,0,0,2,0
+1186,flat,supertech hues,sector 68,0.93,8611.0,2,2,2,11.0,,Undefined,1200.0,0,0,0,0,0,2,0
+1188,flat,krisumi waterfall residences,sector 36a,2.3,15551.0,2,2,2,23.0,,Undefined,1479.0,0,0,0,0,0,2,58
+1193,flat,experion the heartsong,sector 108,1.02,7950.0,2,3,3,4.0,,Relatively New,1283.0,1,0,0,0,0,2,112
+1197,house,independent,sector 7,6.5,15046.0,3,2,3+,2.0,,Old Property,4320.0,0,0,0,0,0,2,9
+1198,flat,ireo the corridors,sector 67a,1.5,11111.0,2,2,2,10.0,,Relatively New,1500.0,0,0,1,0,0,1,38
+1199,flat,green court,sector 90,0.5,8333.0,2,2,1,8.0,,New Property,648.0,0,0,0,0,0,2,42
+1209,flat,m3m skywalk,sector 74,1.78,12500.0,2,2,3+,12.0,,Undefined,1582.0,0,0,0,0,0,2,63
+1210,flat,m3m soulitude,sector 89,1.25,8784.0,3,3,No,4.0,,Undefined,1423.0,0,0,0,0,0,2,61
+1213,house,independent,sector 2,0.7,7778.0,1,1,0,1.0,,Undefined,900.0,0,0,0,0,0,2,0
+1218,flat,dlf the crest,sector 54,11.0,35223.0,4,6,3,7.0,,Relatively New,2811.0,0,1,0,0,0,0,125
+1221,flat,suncity vatsal valley,gwal pahari,1.45,10140.0,3,3,3,4.0,,Undefined,1430.0,0,0,0,0,0,2,49
+1227,house,independent,sector 9,0.6,10753.0,3,3,1,2.0,,Relatively New,558.0,0,0,0,0,0,2,0
+1228,house,independent,sector 105,0.37,8222.0,2,2,1,1.0,,Moderately Old,450.0,0,0,0,0,1,2,0
+1233,flat,spectrum centre,sector 82a,0.62,9538.0,1,1,No,6.0,,Undefined,650.0,0,0,0,0,0,2,0
+1235,flat,orris aster court,sector 85,0.93,5671.0,3,3,3,8.0,,Relatively New,1587.0,0,0,0,0,0,2,0
+1238,flat,spire woods now ananda by alpha corp,sector 103,1.25,6902.0,3,4,3,11.0,,Undefined,2012.0,1,1,0,0,0,2,105
+1240,flat,shri banke bihari society,sector 56,1.35,9643.0,3,3,3+,4.0,,Old Property,1450.0,0,0,0,0,1,1,174
+1241,flat,unitech uniworld gardens,sector 47,2.4,11505.0,3,3,3+,10.0,,Moderately Old,1878.0,0,1,0,0,0,1,120
+1247,flat,shapoorji pallonji joyville gurugram,sector 102,2.03,11998.0,3,3,2,1.0,,New Property,1332.0,0,0,0,0,0,2,67
+1252,flat,shree vardhman flora,sector 90,0.7,5385.0,2,2,3,13.0,,New Property,1170.0,1,0,0,0,0,2,15
+1253,house,dlf city plots phase 3,sector 24,1.44,2963.0,4,2,2,1.0,,Old Property,540.0,0,0,0,0,0,2,8
+1258,flat,godrej summit,sector 104,1.3,9028.0,3,2,3+,16.0,,Relatively New,1296.0,1,0,1,1,0,1,0
+1260,flat,nbcc heights,sector 89,0.75,6579.0,2,2,2,6.0,,Moderately Old,1026.0,0,0,0,0,0,2,0
+1263,flat,brisk lumbini terrace homes,sector 109,1.38,6339.0,3,3,1,4.0,,Moderately Old,2419.0,0,0,0,0,0,2,20
+1265,flat,signature global infinity mall,sector 36,0.41,6269.0,2,2,3,3.0,,Undefined,654.0,0,0,0,0,0,2,0
+1269,flat,m3m soulitude,sector 89,1.0,9066.0,2,2,2,2.0,,New Property,1226.0,1,0,0,0,0,2,49
+1270,flat,smart world gems,sector 89,0.88,7978.0,2,2,No,2.0,,Undefined,1103.0,0,0,0,0,0,2,45
+1273,flat,pivotal riddhi siddhi,sector 99,0.4,4444.0,2,2,2,9.0,,New Property,731.0,0,0,0,0,0,2,60
+1274,flat,conscient elevate,sector 59,6.75,19882.0,4,4,2,10.0,,New Property,2558.0,0,1,0,0,0,2,31
+1275,house,independent,sector 55,2.8,18667.0,4,4,0,2.0,,Undefined,1500.0,0,0,0,0,0,2,0
+1276,flat,sapphire eighty three,sector 83,0.65,9286.0,1,1,No,6.0,,Undefined,700.0,0,0,0,0,0,2,0
+1281,flat,silverglades the melia,sohna road,0.78,5778.0,2,2,3,9.0,,Undefined,1215.0,1,0,0,0,0,2,72
+1282,flat,ansal heights 86,sector 86,0.74,5441.0,2,2,1,11.0,,Undefined,1224.0,0,0,0,0,1,2,45
+1287,house,independent,sector 41,1.65,13750.0,1,1,0,1.0,,Undefined,1200.0,0,0,0,0,0,2,0
+1289,house,sai kripa floors 5,sector 11,0.9,11250.0,2,5,3,3.0,,Relatively New,800.0,0,0,0,0,0,2,0
+1291,flat,unitech sunbreeze,sector 69,0.75,6849.0,2,2,2,4.0,,Under Construction,986.0,0,0,0,0,0,2,0
+1299,flat,sobha smriti apartments,sector 56,0.5,8333.0,1,1,2,3.0,,Undefined,667.0,0,0,0,0,0,2,0
+1302,flat,antriksh heights,sector 84,0.94,6999.0,3,2,3+,10.0,,New Property,1215.0,1,0,0,0,0,1,89
+1304,flat,elevate,sector 50,6.75,19882.0,4,4,No,10.0,,Undefined,3395.0,0,0,0,0,0,2,0
+1315,flat,corona gracieux,sector 76,1.46,5499.0,4,6,3+,8.0,,New Property,2385.0,0,1,0,0,0,2,58
+1327,flat,tulip petals,sector 89,1.1,7097.0,3,2,3,4.0,,Undefined,1550.0,0,0,0,0,0,2,0
+1329,flat,experion heartsong,dwarka expressway,1.08,6150.0,3,3,No,2.0,,Undefined,1758.0,0,0,0,0,0,2,0
+1343,flat,sare crescent parc royal greens phase 1,sector 92,0.95,5008.0,4,5,3+,4.0,,Moderately Old,1707.0,0,1,0,0,0,2,37
+1346,flat,eldeco accolade,sohna road,0.78,6171.0,2,2,2,3.0,,Relatively New,1138.0,0,0,0,0,0,2,72
+1351,flat,shapoorji pallonji joyville gurugram,sector 102,0.95,10383.0,2,2,2,14.0,,Undefined,915.0,0,0,0,0,0,2,0
+1353,house,independent,sector 7,0.69,9103.0,1,1,1,2.0,,Undefined,758.0,0,0,0,0,0,2,0
+1359,flat,godrej oasis,sector 88a,2.65,16751.0,3,3,3+,10.0,,New Property,1582.0,0,0,0,0,0,2,110
+1364,flat,godrej nature plus,sector 33,1.4,9333.0,2,2,3,14.0,,Undefined,1445.0,0,0,0,0,0,2,67
+1365,house,independent,sector 24,3.25,30374.0,4,4,3,3.0,,Old Property,1070.0,0,0,0,0,0,2,15
+1371,house,independent,sector 12,2.75,12343.0,6,6,2,2.0,,Undefined,2228.0,0,0,0,0,0,2,0
+1375,flat,surendra avenue 69,sector 69,0.75,6818.0,2,2,2,4.0,,Moderately Old,1100.0,0,0,0,0,0,2,0
+1380,house,independent,sector 2,0.4,7619.0,2,2,1,1.0,,Relatively New,583.0,0,0,0,0,0,2,0
+1381,flat,tulip violet,sector 69,3.25,10106.0,4,5,3+,14.0,,Relatively New,2895.0,0,0,0,1,1,2,20
+1385,flat,umang monsoon breeze,sector 78,1.1,5055.0,3,3,3+,9.0,,Old Property,2176.0,0,1,0,0,0,2,80
+1389,flat,dlf regency park,sector 28,1.35,11989.0,2,2,2,1.0,,Moderately Old,1109.0,0,0,0,0,0,2,0
+1392,flat,shree vardhman mantra,sector 67,0.56,7000.0,2,2,1,8.0,,New Property,889.0,0,0,0,0,0,2,65
+1398,flat,signature global city 92,sector 92,0.78,8050.0,2,2,2,2.0,,New Property,1077.0,0,0,0,0,0,1,47
+1401,flat,godrej oasis,sector 88a,1.29,7799.0,3,3,3,5.0,,New Property,1638.0,1,0,0,0,1,2,65
+1403,flat,umang monsoon breeze,sector 78,1.15,5285.0,3,3,3,9.0,,Moderately Old,1959.0,0,1,0,0,1,2,22
+1404,flat,ild grand,sector 37c,0.66,5038.0,2,2,3+,14.0,,Undefined,1310.0,0,0,0,0,0,2,60
+1406,flat,tulip monsella,sector 53,5.6,19364.0,3,3,3+,1.0,,Undefined,2603.0,0,0,0,0,0,2,42
+1409,flat,sidhartha ncr greens,sector 95,0.56,5657.0,2,2,3,13.0,,New Property,891.0,0,0,0,0,0,2,8
+1413,house,independent,sector 9,1.65,18333.0,2,3,0,3.0,,Undefined,900.0,0,0,0,0,0,2,0
+1423,flat,the castle society,sector 56,2.0,8696.0,4,4,2,4.0,,Under Construction,2070.0,0,0,0,0,0,2,0
+1425,flat,godrej oasis,sector 88a,1.45,8367.0,2,2,3+,9.0,,Relatively New,133.0,1,0,0,0,0,0,85
+1427,flat,shri ram apartments,sector 4,0.32,3368.0,2,2,1,4.0,,Relatively New,1056.0,0,0,0,0,0,1,7
+1429,flat,puri emerald bay,sector 104,2.6,15160.0,3,4,3+,5.0,,Relatively New,2055.0,1,1,0,0,0,2,81
+1437,flat,gls arawali homes,sohna road,0.3,5291.0,2,2,2,10.0,,Relatively New,515.0,0,0,0,0,0,2,42
+1448,flat,supertech araville,sector 79,0.78,6023.0,2,2,3+,0.0,,New Property,1166.0,0,0,0,0,1,2,74
+1462,flat,greenopolis,sector 89,0.9,4700.0,3,3,No,14.0,,Undefined,1910.0,0,0,0,0,0,2,67
+1469,flat,mvn athens,sohna road,0.25,5198.0,2,2,No,0.0,,Relatively New,481.0,0,0,0,0,0,2,37
+1473,house,independent,sector 24,2.6,24074.0,4,4,3+,4.0,,Relatively New,1080.0,1,0,1,1,0,0,0
+1481,flat,city heights,sector 39,1.75,8750.0,3,4,3,3.0,,Old Property,2222.0,0,1,0,0,0,0,42
+1489,flat,city shri ram apartments 1,sector 110,0.22,3667.0,2,1,1,1.0,,Relatively New,540.0,0,0,0,0,0,2,0
+1495,flat,ansals highland park,dwarka expressway,1.2,6186.0,3,3,3+,4.0,,Undefined,1940.0,0,1,0,0,0,2,0
+1500,house,independent,sector 39,1.7,17989.0,2,2,3+,3.0,,Moderately Old,900.0,0,1,1,0,0,2,45
+1507,flat,dlf royalton tower,sector 43,6.5,20687.0,4,4,3+,9.0,,Moderately Old,2698.0,0,1,0,0,0,2,7
+1508,flat,conscient elevate,sector 59,4.25,18519.0,3,4,3,3.0,,Under Construction,2066.0,0,0,0,0,0,2,0
+1511,flat,sobha city,sector 108,2.4,17379.0,2,2,2,14.0,,New Property,1243.0,0,0,0,0,0,1,113
+1513,flat,hero homes,dwarka expressway,1.6,7824.0,3,3,3,1.0,,New Property,1520.0,0,0,0,0,0,2,49
+1519,flat,adani aangan galleria,sector 89,0.25,5000.0,1,1,1,6.0,,New Property,430.0,0,0,0,0,0,2,74
+1520,flat,m3m heights,sector 65,1.9,13991.0,2,2,2,40.0,,Undefined,1358.0,0,0,0,0,0,2,48
+1525,house,independent,sector 26,6.0,33333.0,3,5,3+,3.0,,Old Property,1800.0,0,0,0,0,0,1,9
+1531,flat,unitech south park,sector 70,1.13,7001.0,3,3,2,1.0,,Undefined,1449.0,0,0,0,0,0,2,46
+1532,house,independent,sector 12,0.7,4118.0,4,4,1,2.0,,Moderately Old,1700.0,0,0,0,0,0,2,0
+1533,flat,dlf royalton tower,sector 43,6.2,20687.0,4,4,3+,9.0,,Moderately Old,2698.0,0,1,0,0,0,2,7
+1534,flat,signature global the millennia,sector 37d,0.65,10906.0,2,2,3,0.0,,New Property,624.0,0,0,0,0,0,2,40
+1535,house,independent,sector 17b,7.2,15926.0,4,4,2,1.0,,Old Property,4494.0,0,1,1,0,0,2,0
+1537,flat,sahara grace,sector 28,4.3,12421.0,3,4,3,5.0,,Old Property,3116.0,0,1,1,0,0,2,24
+1538,flat,green court,sector 90,0.45,7188.0,2,2,1,2.0,,New Property,696.0,0,0,0,0,0,1,42
+1540,flat,pareena mi casa,sector 68,1.7,8504.0,4,4,3,2.0,,New Property,1799.0,0,0,0,0,0,2,47
+1549,flat,signature global solera,sector 107,0.5,7692.0,2,2,1,11.0,,Relatively New,491.0,0,0,0,0,0,2,55
+1552,flat,signature global park 4,sector 36,0.85,11333.0,3,2,3,1.0,,New Property,833.0,0,0,0,0,0,2,33
+1559,flat,m3m golf hills phase 1,sector 79,1.7,10828.0,3,2,3,10.0,,Undefined,1570.0,0,0,0,0,0,2,0
+1561,flat,ansal heights 86,sector 86,0.82,6029.0,2,2,1,12.0,,New Property,1300.0,0,0,0,0,0,2,49
+1562,flat,ansal heights 86,sector 86,1.25,7396.0,3,2,1,11.0,,New Property,1521.0,0,0,0,0,0,2,45
+1566,flat,vatika lifestyle homes,sector 83,1.15,6553.0,3,2,3,15.0,,Relatively New,1580.0,0,0,0,0,0,2,37
+1570,house,independent,sector 67,1.5,8641.0,5,3,2,2.0,,New Property,200.0,0,0,0,0,0,2,0
+1582,flat,sidhartha ncr one phase,sector 95,0.9,4500.0,3,3,1,15.0,,Relatively New,2000.0,0,0,0,0,0,2,60
+1584,flat,ace palm floors,sector 89,0.97,7861.0,2,2,2,1.0,,New Property,1371.0,1,0,0,0,0,2,28
+1585,flat,satya the hermitage,sector 103,1.12,5625.0,3,4,3+,9.0,,New Property,1729.0,0,1,0,0,0,2,49
+1589,flat,sare green parc,sector 92,0.75,4820.0,3,2,2,16.0,,Undefined,1556.0,0,0,0,0,0,2,0
+1590,flat,emaar the palm drive,sector 66,3.9,18634.0,3,4,3,2.0,,Relatively New,2200.0,0,0,0,0,0,2,0
+1592,flat,rof aalayas,sector 102,0.45,6000.0,1,1,2,6.0,,Undefined,750.0,0,0,0,0,0,2,0
+1594,flat,vatika city,sector 49,3.6,11921.0,4,5,3,7.0,,Moderately Old,3356.0,0,1,0,1,0,0,15
+1595,house,dlf city plots,sector 26,16.0,37780.0,4,4,3,1.0,,Relatively New,4235.0,1,0,1,1,0,2,7
+1597,house,independent,sector 3,0.37,7923.0,1,1,1,1.0,,Relatively New,480.0,0,0,0,0,0,2,0
+1604,flat,kashish manor one,sector 111,1.65,7097.0,3,4,3+,14.0,,Undefined,2093.0,0,1,0,0,1,2,8
+1608,flat,ss the leaf,sector 85,1.3,7927.0,2,2,2,17.0,,New Property,1476.0,0,0,0,0,0,2,90
+1610,flat,ss the leaf,sector 85,2.15,8929.0,3,5,3,2.0,,New Property,2167.0,0,0,0,0,0,2,53
+1615,house,independent,sector 43,1.9,3909.0,3,3,3+,3.0,,Old Property,60.0,0,0,0,0,0,0,0
+1616,house,signature global city 92,sector 92,0.75,7821.0,2,2,3,1.0,,Undefined,959.0,0,0,0,0,0,2,46
+1617,flat,signature global park,sohna road,0.54,7248.0,2,1,3,1.0,,New Property,828.0,0,0,0,0,0,2,65
+1623,house,independent,sector 21,0.6,6173.0,3,3,2,3.0,,Old Property,972.0,0,0,0,0,0,2,0
+1626,flat,emaar palm heights,sector 77,2.1,10370.0,3,3,3,17.0,,New Property,1823.0,1,1,0,0,0,2,8
+1629,flat,railway officers rpf society,sector 9a,1.25,6921.0,4,3,3,1.0,,Old Property,2007.0,0,1,0,0,0,2,40
+1630,flat,tulip lemon,sector 69,0.6,10000.0,2,1,1,12.0,,Relatively New,667.0,0,0,0,0,0,2,23
+1631,flat,raheja maheshwara,sohna road,0.48,4368.0,2,2,2,11.0,,Undefined,989.0,0,0,0,0,0,2,45
+1632,flat,birla navya,sector 63a,2.2,17488.0,2,3,3+,4.0,,Undefined,994.0,0,0,0,0,0,2,60
+1633,flat,tulip lemon,sector 69,0.6,11407.0,2,1,1,11.0,,Undefined,584.0,0,0,0,0,0,2,0
+1638,flat,smart world orchard,sector 61,1.9,22700.0,3,3,3,1.0,,New Property,1137.0,0,0,0,0,0,2,30
+1655,flat,sare homes,sector 92,1.25,6200.0,4,3,No,16.0,,Undefined,2040.0,0,0,0,0,0,2,49
+1658,flat,dlf regency park,sector 28,1.91,16609.0,2,2,2,11.0,,New Property,1278.0,0,0,0,0,0,0,98
+1666,flat,smart world orchard,sector 61,1.55,13478.0,2,2,1,3.0,,Under Construction,1035.0,1,0,0,0,0,2,43
+1674,flat,ansal harmony homes,sector 57,1.12,10667.0,2,2,1,0.0,,Old Property,945.0,0,0,0,0,0,2,72
+1675,house,independent,sector 7,2.0,11111.0,2,2,1,2.0,,Relatively New,1800.0,0,0,0,0,0,2,0
+1679,house,independent,sector 13,0.62,3588.0,6,6,0,3.0,,Undefined,192.0,0,0,0,0,0,2,0
+1683,flat,ramsons kshitij,sector 95,0.29,5179.0,2,2,2,14.0,,Relatively New,504.0,0,0,0,0,0,2,50
+1686,house,independent,sector 43,2.55,13178.0,3,3,2,3.0,,Relatively New,1935.0,0,0,0,0,0,1,60
+1691,flat,maxworth city residences,sector 10a,0.8,6400.0,2,3,2,9.0,,New Property,1389.0,0,0,0,0,0,2,46
+1701,flat,mittal cosmos executive apartments,sector 2,0.75,6550.0,2,2,2,15.0,,Old Property,1100.0,0,0,0,0,0,1,42
+1702,house,vatika india next4.1 â˜…,sector 82,6.5,20062.0,4,3,0,2.0,,Undefined,3240.0,0,0,0,0,0,2,0
+1703,flat,m3m heights,sector 65,1.9,14996.0,2,2,3,4.0,,Under Construction,1135.0,0,0,0,0,0,2,54
+1704,house,independent,sector 3 phase 3 extension,0.55,5000.0,2,1,0,1.0,,Undefined,1100.0,0,0,0,0,0,2,0
+1711,house,independent,sector 4,0.7,6648.0,3,3,0,1.0,,Undefined,117.0,0,0,0,0,0,2,0
+1714,flat,trisara our homes 3,sohna road,0.36,5980.0,2,2,1,1.0,,New Property,521.0,0,0,0,0,0,2,45
+1722,flat,krrish florence estate,sector 70,1.3,5601.0,3,3,3,17.0,,Undefined,1865.0,0,0,0,0,0,1,61
+1723,flat,breez global hill view,sohna road,0.42,7179.0,2,2,1,18.0,,Relatively New,650.0,0,0,0,0,0,2,44
+1724,flat,suposhaa smartworld orchard,sector 61,2.25,14526.0,3,3,2,3.0,,Undefined,1721.0,0,0,0,0,0,2,0
+1727,flat,tulip monsella,sector 53,8.25,28004.0,3,4,3,8.0,,Undefined,2646.0,0,1,0,0,0,0,35
+1728,flat,tulip orange,sector 70,1.0,10309.0,3,2,2,3.0,,Moderately Old,1078.0,0,0,0,0,0,2,58
+1730,flat,m3m skywalk,sector 74,2.7,13380.0,3,3,3,13.0,,New Property,2018.0,0,0,1,0,0,2,92
+1731,flat,dlf new town heights,sector 90,1.8,6601.0,4,4,3+,23.0,,Moderately Old,2455.0,0,0,0,0,0,2,67
+1733,flat,hcbs sports ville,sohna road,0.32,6166.0,2,2,2,2.0,,New Property,577.0,0,0,0,0,0,2,37
+1738,flat,cancon enclave,sector 4,1.05,7778.0,3,2,2,2.0,,New Property,1500.0,0,0,0,0,0,1,0
+1739,flat,dnha group housing society,manesar,0.75,4518.0,3,2,2,5.0,,Moderately Old,1494.0,0,0,0,0,0,2,0
+1740,flat,silverglades the melia,sohna road,1.01,6999.0,2,2,3,12.0,,Undefined,1180.0,1,0,0,0,0,2,80
+1741,flat,godrej air,sector 85,1.75,9589.0,3,3,2,27.0,,Undefined,1825.0,0,0,0,0,0,2,44
+1743,flat,signature global park,sohna road,0.95,7845.0,3,2,3+,1.0,,Relatively New,1210.723472,0,0,0,0,0,2,46
+1744,flat,antriksh heights,sector 84,0.84,4870.0,3,3,3+,8.0,,New Property,1553.0,0,0,0,1,0,2,60
+1746,flat,indiabulls enigma,sector 110,4.0,9850.0,4,4,3,17.0,,New Property,3350.0,0,0,0,0,0,2,59
+1750,house,independent,sector 5,3.75,11029.0,5,5,3+,3.0,,Undefined,3400.0,0,0,0,0,0,2,0
+1758,house,independent,sector 7,3.0,11494.0,7,7,0,3.0,,Undefined,2610.0,0,0,0,0,0,2,0
+1759,flat,shree vardhman victoria,sector 70,1.75,8974.0,3,4,2,16.0,,Relatively New,1950.0,0,1,0,1,0,2,49
+1760,flat,rose apartment,sector 28,3.0,10482.0,3,5,3+,8.0,,Old Property,2576.0,0,0,0,0,0,2,0
+1765,flat,ansal api esencia,sector 67,1.0,6435.0,3,3,3+,2.0,,Moderately Old,1399.0,0,0,0,0,0,2,9
+1770,flat,ramprastha the edge towers,sector 37d,1.1,5528.0,3,3,3,9.0,,Undefined,1990.0,0,0,0,0,0,2,63
+1772,house,rattan vihar rajendra park,dwarka expressway,0.85,14167.0,1,5,3+,4.0,,New Property,600.0,0,0,0,0,0,2,0
+1774,house,independent,sector 23,2.9,11600.0,4,4,3,2.0,,Relatively New,2500.0,0,1,0,0,0,1,43
+1779,flat,emaar digihomes,sector 62,4.25,26562.0,3,3,3,8.0,,Under Construction,1600.0,1,0,0,0,0,2,16
+1789,flat,vatika xpressions,sector 88b,0.92,6815.0,2,2,3,3.0,,New Property,1350.0,0,0,0,0,0,2,26
+1790,flat,smriti apartment,sector 56,0.45,7500.0,1,1,2,3.0,,Old Property,540.0,0,0,0,0,0,2,57
+1792,flat,satya the hermitage,sector 103,0.8,5517.0,2,2,No,10.0,,Undefined,1450.0,0,0,0,0,0,2,61
+1794,flat,raheja revanta,sector 78,4.75,16886.0,3,3,2,31.0,,Undefined,2813.0,0,1,0,0,0,2,100
+1800,flat,orchid island,sector 51,0.71,7889.0,2,2,1,4.0,,Relatively New,1007.0,0,0,0,0,0,2,23
+1802,flat,park royal apartment,sector 56,1.85,9024.0,3,4,3,7.0,,Old Property,2278.0,0,1,0,0,0,2,72
+1803,house,independent,sector 3 phase 3 extension,1.0,6667.0,1,1,0,1.0,,Undefined,1500.0,0,0,0,0,0,2,0
+1805,house,independent,sector 15,1.07,11889.0,2,2,1,1.0,,Old Property,900.0,0,1,0,0,0,2,7
+1806,flat,signature global city,sector 37d,1.1,8800.0,3,3,3,1.0,,Undefined,1389.0,0,0,0,0,0,2,16
+1807,flat,viridian the plaza 106,sector 106,0.46,6571.0,1,1,1,18.0,,New Property,778.0,0,0,0,0,0,2,104
+1809,flat,signature global superbia,sector 95,0.4,6723.0,2,2,3,2.0,,Undefined,661.0,0,0,0,0,0,2,0
+1811,flat,m3m woodshire,sector 107,0.8,5857.0,2,2,3+,14.0,,New Property,1230.0,0,0,0,0,0,2,67
+1813,flat,la vida by tata housing,sector 113,3.72,13985.0,5,4,3+,0.0,,New Property,2956.0,0,0,0,1,0,0,44
+1815,flat,ats triumph,sector 104,1.95,8515.0,3,3,3+,3.0,,New Property,2544.0,0,1,0,0,0,2,69
+1816,flat,eldeco accolade,sohna road,1.1,7550.0,2,2,3+,17.0,,Relatively New,1311.0,1,0,0,0,1,1,7
+1824,house,sheetla enclave,sector 5,0.96,10000.0,2,4,2,3.0,,Moderately Old,945.0,0,0,1,1,0,1,0
+1826,flat,ompee k s residency,new sector 2,1.6,2993.0,2,2,2,1.0,,Relatively New,73.0,0,0,0,0,0,2,0
+1827,flat,umang winter hills,sector 77,1.35,7781.0,3,3,3+,7.0,,New Property,1447.0,0,0,1,0,0,1,96
+1832,flat,the serenas,sector 36,0.42,7910.0,2,2,1,3.0,,Undefined,590.0,0,0,0,0,0,2,0
+1835,house,independent,sector 25,6.5,36111.0,4,3,3,3.0,,Moderately Old,1800.0,1,0,0,1,0,2,19
+1842,flat,conscient elevate,sector 59,4.02,17501.0,3,3,1,3.0,,Under Construction,2550.0,0,0,0,0,0,2,31
+1846,flat,bestech park view ananda,sector 81,0.9,6618.0,2,2,3,8.0,,New Property,1224.0,0,0,0,0,1,2,60
+1849,house,independent,sector 28,10.5,32407.0,5,6,3+,3.0,,New Property,3240.0,1,1,0,1,0,1,153
+1850,flat,signature the serenas,sohna road,0.45,8475.0,2,2,1,10.0,,New Property,590.0,0,0,0,0,0,2,23
+1854,flat,zara aavaas,sector 104,0.2,6645.0,1,2,2,3.0,,New Property,334.0,0,0,0,0,0,2,67
+1857,flat,ireo uptown,sector 66,1.32,11438.0,2,2,2,6.0,,Relatively New,1042.0,0,0,0,0,0,2,45
+1861,house,independent,sector 50,13.2,27155.0,6,6,0,2.0,,Undefined,4861.0,0,0,0,0,0,2,0
+1865,house,independent,sector 43,5.25,27132.0,4,4,2,2.0,,Old Property,1935.0,1,1,0,0,0,1,80
+1868,house,independent,sector 14,4.5,20000.0,5,5,1,1.0,,Relatively New,2778.0,0,0,0,0,0,2,0
+1869,flat,signature global park 4,sector 36,0.72,6429.0,3,2,3,2.0,,Undefined,1244.0,0,0,0,0,0,2,0
+1882,flat,ats tourmaline,sector 109,1.75,10000.0,3,3,3,4.0,,New Property,1466.0,0,0,0,0,0,2,31
+1885,flat,ramprastha city,dwarka expressway,1.3,9028.0,3,3,2,3.0,,Under Construction,1296.0,0,0,0,0,0,2,0
+1886,flat,breez global heights,sohna road,0.4,6689.0,2,2,2,7.0,,Relatively New,760.0,0,0,0,0,0,2,57
+1891,flat,mittal surya vihar,sector 21,1.4,5833.0,5,4,2,2.0,,Moderately Old,2160.0,0,0,0,0,0,2,0
+1895,flat,la vida by tata housing,sector 113,1.5,11755.0,2,2,2,13.0,,New Property,1149.0,0,0,0,0,0,2,60
+1899,flat,dnha cghs,sector 1,0.85,3864.0,3,3,No,5.0,,Undefined,2200.0,0,0,0,0,0,2,0
+1900,flat,spaze privy,sector 72,1.9,9620.0,3,3,3,10.0,,Undefined,1975.0,0,0,0,0,0,2,0
+1901,flat,ramsons kshitij,sector 95,0.4,5839.0,3,2,2,6.0,,Undefined,761.0,0,0,0,0,0,2,0
+1905,house,independent,sector 3,0.9,8929.0,3,1,0,1.0,,Undefined,1008.0,0,0,0,0,0,2,0
+1910,house,independent,sohna road road,6.25,6944.0,3,3,0,1.0,,Moderately Old,9000.0,0,0,0,0,0,2,0
+1911,flat,ireo the corridors,sector 67a,2.08,12044.0,3,3,2,6.0,,Undefined,1554.0,0,0,0,0,1,2,55
+1916,flat,on request,sector 103,1.69,9145.0,3,3,3+,8.0,,Relatively New,1661.0,0,0,0,0,0,2,49
+1918,flat,ansal api esencia,sector 67,1.2,7407.0,3,3,2,1.0,,Undefined,200.0,0,0,0,0,0,2,49
+1922,flat,raheja vedaanta,sector 108,0.95,5214.0,3,3,3,3.0,,Relatively New,1640.0,0,0,0,0,1,2,95
+1923,flat,proxima tower,sector 37c,0.6,4601.0,2,2,3,5.0,,Undefined,1174.0,1,0,0,1,0,2,55
+1924,house,independent,sector 105,1.15,3285.0,3,2,1,1.0,,Undefined,3889.0,0,0,0,0,0,2,0
+1931,house,independent,sector 39,5.15,14071.0,5,5,0,1.0,,Relatively New,3660.0,0,0,0,0,0,2,0
+1932,flat,signature global solera,sector 107,0.6,8000.0,3,2,2,8.0,,Undefined,750.0,0,0,0,0,0,2,55
+1934,flat,kendriya vihar,sector 56,0.58,9587.0,1,1,1,1.0,,Old Property,672.0,0,0,0,0,0,2,77
+1937,flat,dlf the arbour,sector 63,8.5,21519.0,4,4,No,27.0,,Undefined,3950.0,0,0,0,0,0,2,61
+1941,flat,dlf 76,new,4.0,11429.0,4,4,2,4.0,,Undefined,3889.0,1,1,0,0,0,1,101
+1946,flat,kibithu villas,sector 48,3.45,12778.0,4,4,3+,2.0,,Undefined,3000.0,0,0,0,0,0,2,0
+1948,flat,breez global heights,sohna road,0.42,6422.0,2,2,2,2.0,,New Property,561.0,0,0,0,0,0,2,73
+1950,house,sector 14 rwa,sector 14,6.5,26000.0,5,5,0,4.0,,Moderately Old,2500.0,0,0,0,0,0,2,0
+1951,flat,dlf garden city floors,sector 92,1.7,8586.0,3,4,2,1.0,,Undefined,1467.0,0,0,0,0,0,2,63
+1952,house,ansals palam vihar,sector 2,2.68,17213.0,4,3,2,3.0,,Moderately Old,1557.0,0,0,1,0,0,1,74
+1962,flat,smriti apartment,sector 56,0.6,10000.0,1,1,1,2.0,,Moderately Old,540.0,0,0,0,0,0,2,49
+1967,flat,ramshanti cooperative society,sector 52,1.76,7243.0,4,4,3+,12.0,,New Property,2187.0,0,0,0,0,0,2,0
+1969,flat,eldeco accolade,sohna road,1.1,7550.0,3,2,3,13.0,,Relatively New,1311.0,0,0,0,0,0,2,56
+1973,flat,tulip purple,sector 69,2.6,10833.0,4,4,3+,4.0,,Moderately Old,2160.0,0,1,0,0,0,2,37
+1980,flat,bestech park view sanskruti,sector 92,1.55,9688.0,3,3,3,17.0,,Relatively New,1787.0,0,1,0,0,0,1,60
+1981,flat,m3m skywalk,sector 74,1.47,10954.0,2,2,3,26.0,,New Property,1274.0,0,0,0,0,0,1,31
+1982,flat,vipul belmonte,sector 53,6.5,21922.0,3,4,3+,0.0,,Old Property,2669.0,1,0,0,0,1,2,72
+1993,flat,supertech hues,sector 68,1.0,8475.0,2,2,3,23.0,,New Property,1311.0,0,0,0,0,0,2,49
+1997,flat,shapoorji pallonji joyville gurugram,sector 102,1.05,11475.0,2,2,2,0.0,,Undefined,1017.0,0,0,0,0,0,2,49
+1998,house,independent,sohna road road,0.95,8920.0,3,10,3+,3.0,,New Property,1065.0,0,0,0,0,0,2,0
+1999,flat,sare crescent parc,sector 92,0.49,4910.0,2,2,2,2.0,,Relatively New,1109.0,0,0,0,0,0,2,96
+2001,flat,baani city center,sector 63,0.88,10945.0,1,1,2,4.0,,Undefined,804.0,0,0,0,0,0,2,0
+2005,flat,adani aangan arcade,sector 89,0.5,7764.0,2,2,1,4.0,,Relatively New,672.0,0,0,0,0,0,0,69
+2007,flat,piedmont taksila heights,sector 37c,1.0,6506.0,3,3,3+,8.0,,Relatively New,1708.0,0,0,0,0,0,1,49
+2008,flat,signature global city 63a,sector 63a,1.65,15264.0,2,2,2,1.0,,Undefined,973.0,0,0,0,0,0,2,0
+2010,house,vatika signature villas,sector 82,4.7,21759.0,3,3,3+,3.0,,New Property,2160.0,0,1,0,0,0,2,33
+2011,house,ansal sushant lok plots4.1 â˜…,sector 43,3.3,26570.0,1,1,0,2.0,,Under Construction,1242.0,0,0,0,0,0,2,0
+2013,flat,signature global city 37d ph 2,sector 37d,1.35,9375.0,3,3,3+,3.0,,Undefined,1600.0,0,0,0,1,0,2,51
+2014,flat,conscient elevate,sector 59,3.78,16499.0,3,3,3,3.0,,Under Construction,2550.0,0,0,0,0,0,2,31
+2016,flat,imperia aashiyara,sector 37c,0.4,5882.0,2,2,3,3.0,,Undefined,756.0,0,0,0,0,0,2,126
+2021,flat,godrej air,sector 85,1.3,14541.0,2,2,3,30.0,,Undefined,1127.0,0,0,0,0,0,2,111
+2028,flat,unitech vistas,sector 70,0.99,6326.0,3,4,2,11.0,,Under Construction,1409.0,0,0,0,0,0,2,0
+2030,flat,pyramid elite,sector 86,0.45,7745.0,2,2,1,4.0,,Undefined,646.0,0,0,0,0,0,2,66
+2033,flat,godrej nature plus,sector 33,1.25,9025.0,2,2,3+,15.0,,Undefined,1539.0,0,0,0,0,0,2,44
+2038,house,independent,sector 40,2.15,23889.0,3,3,3,3.0,,Moderately Old,900.0,1,0,1,1,0,2,45
+2041,flat,godrej summit,sector 104,0.82,9856.0,2,2,3,12.0,,Relatively New,86.0,1,0,0,0,0,2,120
+2047,flat,experion windchants,sector 112,3.1,20667.0,2,2,3,9.0,,Relatively New,1500.0,1,1,1,0,0,1,80
+2049,flat,vipul lavanya,sector 81,0.6,6667.0,2,2,1,0.0,,Under Construction,810.0,0,0,0,0,0,2,0
+2050,flat,sare crescent parc royal greens phase 1,sector 92,0.79,6086.0,3,2,2,15.0,,New Property,1168.0,0,0,0,0,0,2,25
+2055,flat,adani aangan arcade,sector 88a,0.45,7188.0,2,2,1,8.0,,New Property,695.0,0,0,0,0,0,2,14
+2056,flat,whiteland blissville,sector 76,1.9,11364.0,3,3,2,0.0,,Under Construction,1505.0,0,0,0,0,0,2,61
+2058,flat,breez global heights,sohna road,0.26,6599.0,1,1,1,6.0,,New Property,438.0,0,0,0,0,0,2,26
+2062,flat,ss the leaf,sector 85,1.65,6852.0,3,4,3,9.0,,New Property,2167.0,0,0,0,1,0,2,21
+2069,flat,signature global the millennia 3,sector 37d,0.5,7143.0,3,3,2,2.0,,Undefined,778.0,0,0,0,0,0,2,31
+2071,flat,imperia elvedor,sector 37c,0.55,8221.0,1,1,No,5.0,,Undefined,669.0,0,0,0,0,0,2,0
+2075,flat,pyramid urban homes 2,sector 86,0.5,9690.0,2,2,2,6.0,,Old Property,573.0,0,0,0,0,0,2,15
+2084,flat,tulip violet,sector 69,1.2,10909.0,2,3,No,0.0,,Undefined,1100.0,0,0,0,0,0,2,54
+2093,flat,bestech park view city,sector 48,1.78,10023.0,3,4,2,5.0,,Relatively New,1522.0,1,0,0,1,0,2,53
+2098,house,indiabulls centrum park3.7 â˜…,sector 103,3.25,8125.0,4,3,3+,20.0,,Undefined,4000.0,0,0,0,0,0,2,0
+2101,flat,apex our homes,sector 37c,0.38,4108.0,2,2,1,9.0,,Relatively New,925.0,0,0,0,0,0,2,65
+2114,flat,signature global city,sector 37d,0.8,8421.0,2,2,2,2.0,,Undefined,855.0,0,0,0,0,0,2,42
+2116,flat,supertech araville,sector 79,1.1,5641.0,3,3,3,1.0,,Relatively New,2167.0,0,0,0,0,0,1,106
+2118,house,independent,sector 47,4.6,26620.0,2,6,3+,4.0,,Moderately Old,1728.0,0,0,0,0,0,0,51
+2120,flat,silverglades the melia,sohna road,0.75,5556.0,2,2,2,4.0,,Moderately Old,1350.0,0,0,0,0,0,2,70
+2127,flat,gls avenue 51,sector 92,0.5,7812.0,3,3,1,0.0,,Relatively New,576.0,0,0,0,0,0,2,0
+2130,flat,m3m golfestate,sector 65,5.9,17544.0,3,3,3,9.0,,Moderately Old,3027.0,1,0,0,0,0,0,21
+2133,flat,aipl the peaceful homes,sector 70a,2.6,12009.0,3,2,2,12.0,,Moderately Old,2406.0,0,1,0,0,0,2,52
+2135,flat,m3m skywalk,sector 74,2.2,10902.0,3,3,3,12.0,,New Property,1816.0,1,0,0,0,0,1,15
+2144,flat,krishna appartment,sector 12,0.35,3500.0,3,3,1,2.0,,Old Property,900.0,0,0,0,0,0,2,0
+2147,house,independent,sector 105,0.7,5833.0,3,2,2,1.0,,Undefined,1200.0,0,0,0,0,0,2,0
+2148,house,independent,sector 4,3.2,14222.0,3,3,2,2.0,,Old Property,2250.0,0,0,0,0,0,2,13
+2151,flat,,sector 78,0.6,3692.0,2,2,No,2.0,,Undefined,1625.0,0,0,0,0,0,2,0
+2154,flat,la vida by tata housing,sector 113,1.5,11755.0,2,2,2,13.0,,New Property,1418.0,0,0,0,0,0,2,71
+2166,flat,shapoorji pallonji joyville gurugram,sector 102,1.6,11696.0,2,2,3,14.0,,Moderately Old,1368.0,0,0,0,0,0,2,0
+2180,flat,pivotal riddhi siddhi,sector 99,0.72,947.0,2,2,2,12.0,,Relatively New,784.0,0,0,1,0,0,2,31
+2182,flat,supertech hues,sector 68,0.82,6949.0,2,2,3+,21.0,,Undefined,1062.0,0,0,0,0,1,2,72
+2184,flat,vatika independent floors,sector 82,1.45,8056.0,4,3,No,1.0,,Undefined,1800.0,0,0,0,0,0,2,50
+2194,flat,signature the serenas,sohna road,0.5,9398.0,2,2,2,6.0,,New Property,591.0,0,0,0,0,0,2,37
+2199,flat,signature global park,sohna road,0.58,7056.0,2,2,2,3.0,,Undefined,822.0,0,0,0,0,0,2,58
+2201,flat,pyramid urban homes 2,sector 86,0.5,9615.0,2,2,1,10.0,,Relatively New,578.0,0,0,0,0,0,2,15
+2209,house,independent,sector 48,8.4,25926.0,4,4,3,2.0,,Old Property,3240.0,0,1,0,1,0,1,15
+2210,flat,supertech araville,sector 79,0.8,6178.0,2,2,3+,9.0,,New Property,1166.0,0,0,0,0,1,2,24
+2214,flat,satya the hermitage,sector 103,0.89,6138.0,2,3,3,1.0,,Relatively New,1253.0,0,1,0,0,0,1,75
+2217,flat,supertech araville,sector 79,0.8,5267.0,2,2,2,12.0,,New Property,1688.0,1,0,0,0,0,2,49
+2222,flat,m3m heights,sector 65,1.95,15997.0,2,2,3,16.0,,Undefined,1135.0,0,0,0,0,0,2,44
+2224,house,housing board colony,sector 28,3.5,25926.0,2,6,3,3.0,,Relatively New,1350.0,0,0,0,0,0,2,0
+2228,flat,supertech araville,sector 79,0.71,5521.0,2,2,No,9.0,,Undefined,1295.0,0,0,0,0,0,2,0
+2229,flat,vatika gurgaon,sector 83,1.4,6629.0,3,3,2,7.0,,Relatively New,1562.0,0,0,0,0,0,1,74
+2233,house,independent,sector 37d,1.16,7537.0,1,1,0,1.0,,Undefined,1535.0,0,0,0,0,0,2,0
+2235,flat,imperia the esfera,sector 37c,0.95,5702.0,2,2,No,17.0,,Undefined,1578.0,0,1,0,0,0,2,66
+2246,flat,kendriya vihar,sector 56,0.55,9016.0,1,2,1,0.0,,Old Property,678.0,0,0,0,0,0,2,68
+2248,flat,takshila heights sector 37 c,new,0.67,5583.0,2,2,2,3.0,,Relatively New,1080.0,0,0,0,0,0,2,23
+2250,flat,puri emerald bay,sector 104,1.8,8824.0,2,3,3,23.0,,New Property,1530.0,0,1,0,0,0,2,36
+2252,flat,smart world orchard,sector 61,1.85,14800.0,2,2,2,3.0,,New Property,1389.0,0,0,0,0,0,2,44
+2253,flat,sare crescent parc,sector 92,0.71,4934.0,3,3,2,6.0,,Relatively New,1596.0,0,0,0,0,0,2,37
+2254,flat,godrej oasis,sector 88a,1.5,8108.0,3,3,2,3.0,,Relatively New,2056.0,0,0,0,0,0,2,47
+2260,flat,kendriya vihar,sector 56,0.65,8609.0,1,1,1,0.0,,Moderately Old,839.0,0,0,0,0,0,2,143
+2268,flat,corona gracieux,sector 76,1.08,5510.0,3,3,3,1.0,,New Property,1764.0,0,1,0,0,0,2,58
+2270,flat,apna enclave,sector 3,0.8,6154.0,3,3,1,0.0,,Old Property,1000.0,0,0,0,0,0,2,0
+2272,flat,zara aavaas,sector 104,0.49,6577.0,3,2,2,7.0,,Undefined,694.0,0,0,0,0,0,2,74
+2274,house,unitech espace,sector 50,10.45,32253.0,5,7,3+,3.0,,Moderately Old,3240.0,1,1,0,1,1,1,153
+2279,flat,parsvnath green ville,sector 48,3.3,9985.0,5,5,3+,4.0,,Old Property,3305.0,0,1,0,0,0,2,71
+2285,flat,m3m woodshire,sector 107,1.8,7624.0,3,4,3+,2.0,,Relatively New,1831.0,0,1,0,0,0,2,129
+2286,flat,pivotal riddhi siddhi,sector 99,0.5,8518.0,2,1,2,7.0,,New Property,652.0,0,0,0,0,0,2,24
+2288,flat,housing board colony,sector 51,0.3,4630.0,1,1,No,0.0,,Moderately Old,80.0,1,0,0,0,0,2,15
+2292,flat,hcbs sports ville,sohna road,0.3,4011.0,2,2,2,3.0,,Undefined,743.0,0,0,0,0,0,2,0
+2294,flat,vatika sovereign park,sector 99,3.25,9673.0,4,4,3+,2.0,,New Property,3024.0,0,1,0,0,0,2,123
+2298,flat,avl 36 gurgaon,sector 36a,0.65,8953.0,2,2,2,7.0,,Relatively New,653.0,0,0,0,0,0,2,89
+2305,flat,kendriya vihar,sector 56,0.47,7769.0,1,1,1,3.0,,Old Property,672.0,0,0,0,0,0,1,52
+2310,flat,aipl zen residences,sector 70a,1.25,9905.0,2,2,3,19.0,,Undefined,1402.0,0,0,0,0,0,2,0
+2313,flat,gls arawali homes,sohna road,0.35,6076.0,2,2,2,12.0,,New Property,518.0,0,0,0,0,0,2,42
+2314,flat,supertech araville,sector 79,1.0,6536.0,2,2,3,4.0,,Relatively New,1700.0,1,0,0,0,0,2,24
+2315,flat,m3m woodshire,sector 107,0.9,6589.0,2,2,3+,4.0,,Relatively New,1230.0,0,0,0,0,0,2,21
+2319,flat,gls avenue 51,sector 92,0.5,7812.0,3,3,1,12.0,,New Property,711.0,0,0,0,0,0,0,95
+2320,flat,sare green parc,sector 92,0.85,6741.0,3,2,2,14.0,,Undefined,1261.0,0,0,0,0,0,2,0
+2321,flat,signature global city 92,sector 92,0.78,7723.0,2,2,3,2.0,,Undefined,843.0,0,0,0,0,1,2,24
+2322,house,shivaji nagar residential,sector 11,3.08,11407.0,6,4,2,1.0,,Undefined,2700.0,0,0,0,0,0,2,0
+2326,flat,hcbs sports ville,sohna road,0.2,2667.0,2,2,1,4.0,,New Property,743.0,0,0,0,0,0,2,15
+2336,flat,raheja revanta,sector 78,1.2,10017.0,1,2,2,32.0,,Undefined,820.0,0,0,0,0,0,2,39
+2337,flat,m3m heights,sector 65,3.67,17990.0,3,3,2,27.0,,Undefined,2040.0,0,1,0,0,0,2,43
+2343,flat,capital residences 360,sector 70a,1.1,7586.0,2,2,3+,8.0,,New Property,1305.0,0,0,0,0,0,2,60
+2348,flat,chd avenue,sector 71,0.82,7081.0,2,2,2,6.0,,Moderately Old,1080.0,0,0,0,0,0,2,0
+2358,flat,signature global orchard avenue,sector 93,0.4,5479.0,2,2,No,0.0,,Undefined,730.0,0,0,0,0,0,2,0
+2360,flat,sonata group housing gh 24,manesar,1.65,5893.0,4,3,3,8.0,,New Property,3111.0,0,1,0,0,0,2,20
+2366,flat,milan cghs 9,sector 39,2.0,8333.0,3,3,3+,0.0,,Undefined,2400.0,0,0,0,0,0,2,0
+2370,flat,m3m the tree of life,sector 111,2.35,14551.0,3,3,3+,5.0,,Undefined,1615.0,0,0,0,0,0,2,0
+2377,flat,central park flower valley,sohna road road,1.65,17442.0,3,3,No,1.0,,Undefined,1051.0,0,0,0,0,0,2,66
+2378,flat,signature global grand iva,sector 103,0.3,8287.0,1,2,2,5.0,,New Property,402.0,0,0,0,0,0,2,37
+2380,flat,mapsko paradise,sector 83,0.95,6300.0,3,3,3,1.0,,Moderately Old,1489.0,0,0,0,0,0,2,0
+2381,house,independent,sector 3,1.5,10288.0,3,3,0,2.0,,Old Property,210.0,0,0,0,0,0,2,0
+2383,house,independent,sohna road,0.07,2527.0,1,1,0,1.0,,Relatively New,33.0,0,0,0,0,0,2,0
+2393,flat,signature global solera,sector 107,0.4,6645.0,2,2,1,7.0,,Relatively New,575.0,0,0,0,0,0,1,55
+2394,flat,smart world gems,sector 89,0.88,7964.0,2,2,3,2.0,,New Property,1228.0,1,0,0,0,0,2,44
+2396,flat,signature the roselia,sector 95,0.48,7164.0,2,2,2,6.0,,Relatively New,744.0,0,0,0,0,0,2,16
+2398,flat,godrej nature plus,sector 33,1.4,15119.0,3,2,3+,20.0,,New Property,113.0,0,0,0,0,0,2,70
+2405,flat,smart world orchard,sector 61,1.65,13750.0,2,2,2,1.0,,Under Construction,1333.0,1,0,0,0,0,2,16
+2406,house,independent,sector 3,3.5,9211.0,1,1,0,1.0,,Undefined,3800.0,0,0,0,0,0,2,0
+2407,house,project mianwali colony,sector 12,1.7,9444.0,1,1,2,1.0,,Undefined,2000.0,0,0,0,0,0,2,0
+2416,house,independent,sector 36,0.66,7166.0,2,2,3,4.0,,New Property,823.0,0,0,0,0,0,2,0
+2417,flat,godrej summit,sector 104,1.75,7530.0,4,5,3+,1.0,,New Property,2582.0,0,1,0,0,0,2,60
+2424,flat,dlf the arbour,sector 63,7.8,19747.0,4,4,No,6.0,,Undefined,3950.0,0,0,0,0,0,2,61
+2426,flat,smart world gems,sector 89,1.3,9136.0,3,3,2,2.0,,New Property,1581.0,1,0,0,0,0,2,44
+2436,flat,sanskriti apartment,sector 10a,1.1,6667.0,3,3,3,2.0,,Moderately Old,1833.0,0,0,0,0,0,2,22
+2439,house,independent,sector 56,4.0,26613.0,4,4,3+,2.0,,Relatively New,1503.0,0,0,0,0,0,1,24
+2440,flat,godrej icon,sector 88a,1.75,14894.0,3,3,3+,6.0,,New Property,1306.0,0,0,0,0,0,2,55
+2443,flat,dlf regal gardens,sector 90,2.05,8999.0,4,4,3+,5.0,,Relatively New,1994.0,0,0,0,0,0,1,49
+2449,flat,hcbs sports ville,sohna road,0.27,4348.0,2,2,2,10.0,,Relatively New,619.0,0,0,0,0,0,2,43
+2450,flat,central park flower valley aqua front towers,sector 33,1.7,9503.0,3,3,3,12.0,,Undefined,1610.0,0,0,0,0,0,2,24
+2453,flat,raheja the vedaanta floors,sector 108,0.7,4522.0,2,2,3,1.0,,Moderately Old,1720.0,0,0,0,0,0,1,0
+2456,flat,m3m heights,sector 65,2.25,13612.0,2,2,3,5.0,,Undefined,1592.0,0,0,0,0,0,2,48
+2458,flat,tata primanti,sector 72,4.1,14099.0,4,5,3+,39.0,,New Property,2615.0,0,1,0,0,1,2,103
+2459,flat,godrej oasis,sector 88a,1.45,8082.0,3,3,3,12.0,,Relatively New,1993.0,0,0,0,0,0,2,49
+2461,flat,breez global hill view,sohna road,0.32,5470.0,2,2,1,17.0,,New Property,1000.0,0,0,0,0,0,2,49
+2471,flat,paras dews,sector 106,1.35,8940.0,4,3,3,19.0,,Old Property,1678.0,0,1,0,0,0,2,112
+2474,flat,indiabulls centrum park,sector 103,2.45,8522.0,4,6,3,5.0,,Relatively New,2588.0,0,1,0,0,0,2,38
+2475,flat,breez global hill view,sohna road,2.6,5215.0,2,2,2,6.0,,New Property,4986.0,0,0,0,0,0,2,42
+2485,house,independent,sector 105,0.5,5556.0,2,2,0,1.0,,Undefined,100.0,0,0,0,0,0,2,0
+2489,flat,chanderlok society,sector 28,0.9,7235.0,4,2,3+,1.0,,Old Property,1382.0,0,0,0,0,0,2,0
+2493,house,independent,sector 11,0.95,7308.0,5,3,0,1.0,,Undefined,1300.0,0,0,0,0,0,2,0
+2495,flat,ansal estella,sector 103,1.5,8671.0,3,3,3+,6.0,,Undefined,1737.0,0,0,0,0,0,2,58
+2511,flat,palam vihar society,sector 2,3.35,7444.0,4,4,3+,2.0,,New Property,5000.0,1,0,0,0,0,2,66
+2513,flat,smart world gems,sector 89,0.95,8597.0,2,2,2,4.0,,New Property,1226.0,1,1,0,0,0,2,38
+2518,flat,ireo the corridors,sector 67a,1.3,10031.0,2,2,2,1.0,,Undefined,1296.0,0,0,0,0,0,2,55
+2519,flat,umang monsoon breeze,sector 78,0.9,4615.0,3,3,2,1.0,,Moderately Old,1900.0,0,1,0,1,0,2,65
+2523,house,independent,sector 21,1.6,11852.0,5,5,2,3.0,,Relatively New,120.0,0,0,0,0,0,2,0
+2524,house,independent,sector 4,4.12,8889.0,2,1,3+,2.0,,Moderately Old,4635.0,0,0,0,0,0,2,0
+2525,flat,shreeram apartment ii,sector 4,0.21,4667.0,1,1,1,2.0,,Relatively New,500.0,0,0,0,0,0,2,7
+2527,flat,tulsiani easy in homes,sohna road,0.4,7921.0,2,2,3,9.0,,Undefined,561.0,0,0,0,0,0,2,36
+2531,flat,bestech park view grand spa,sector 81,4.5,10714.0,4,6,3+,17.0,,Relatively New,3780.0,0,1,0,0,0,1,44
+2537,flat,bestech altura,sector 79,1.85,8605.0,3,3,3,7.0,,New Property,1650.0,0,1,0,0,0,2,53
+2540,house,independent,sector 3,0.8,8155.0,2,4,1,2.0,,Moderately Old,981.0,0,0,0,0,0,2,0
+2541,flat,ansal housing highland park,sector 92,0.88,6428.0,2,2,3,3.0,,New Property,1225.0,0,0,0,0,0,2,52
+2542,house,independent,sector 105,0.74,7400.0,3,3,0,2.0,,Undefined,1000.0,0,0,0,0,0,2,0
+2547,flat,sare petioles,sector 92,1.22,5250.0,4,3,3,9.0,,Undefined,2093.0,0,1,0,0,0,2,99
+2548,flat,vatika city,sector 49,1.79,12786.0,3,3,3,9.0,,Old Property,1556.0,0,1,0,0,0,2,38
+2550,flat,smart world gems,sector 89,0.9,8160.0,2,2,2,3.0,,New Property,993.0,1,0,0,0,1,2,95
+2562,flat,mvn athens,sohna road,0.24,4211.0,2,2,1,12.0,,Relatively New,513.0,0,0,0,0,0,2,38
+2564,flat,mvn athens,sohna road,0.25,3671.0,2,2,1,11.0,,Relatively New,681.0,0,0,0,0,0,1,67
+2569,house,kothi,sector 17b,6.95,15444.0,4,4,3+,2.0,,Old Property,3500.0,1,1,1,1,0,2,33
+2582,house,sector 14 rwa,sector 14,6.5,20635.0,4,4,3+,2.0,,Moderately Old,3150.0,0,0,0,0,0,2,0
+2583,flat,espire south,sector 68,1.32,9047.0,2,2,2,9.0,,New Property,1460.0,0,0,0,0,0,2,0
+2585,flat,birla navya,sector 63a,3.5,25926.0,3,3,3,1.0,,Undefined,1350.0,0,0,0,0,0,2,38
+2588,flat,raheja vedaanta,sector 108,1.5,5263.0,3,4,No,12.0,,Undefined,2850.0,0,0,0,0,0,2,0
+2595,flat,not applicable,sector 4,0.42,5600.0,2,2,1,3.0,,Relatively New,833.0,0,0,0,0,0,1,26
+2596,flat,ramprastha the edge towers,sector 37d,0.75,5319.0,2,2,3,19.0,,Moderately Old,1410.0,0,0,0,0,0,2,63
+2600,flat,vatika seven elements,sector 89,1.6,8163.0,3,3,3,5.0,,New Property,1764.0,0,0,0,0,0,2,58
+2602,flat,vatika inxt floors,sector 82a,0.75,7500.0,2,2,2,1.0,,Undefined,1000.0,0,0,0,0,0,2,0
+2604,flat,godrej summit,sector 104,1.2,8299.0,3,2,3+,16.0,,Relatively New,1607.0,1,0,0,1,0,1,142
+2607,house,dlf the arbour,sector 63,8.5,21519.0,4,4,3+,27.0,,Undefined,3950.0,0,0,0,0,0,2,61
+2608,flat,senate court,sector 62,0.9,14085.0,1,1,No,0.0,,Undefined,639.0,0,0,0,0,0,2,0
+2617,flat,nul,gwal pahari,0.56,6054.0,2,2,1,11.0,,Old Property,1028.0,0,0,0,0,0,1,0
+2619,flat,ats marigold,sector 89,1.5,8571.0,3,3,3,2.0,,New Property,1944.0,0,0,0,0,1,2,49
+2620,flat,ild grand,sector 37c,1.35,7143.0,3,3,No,1.0,,New Property,1820.0,0,0,0,0,0,2,60
+2621,flat,signature global park 4,sector 36,1.0,9901.0,3,2,3,2.0,,New Property,1122.0,0,0,0,0,0,2,128
+2622,flat,ss residency,sector 6,0.48,5333.0,3,2,2,2.0,,Moderately Old,111.0,0,0,0,0,0,2,54
+2628,house,independent,sector 11,0.9,10000.0,2,4,3+,4.0,,Moderately Old,900.0,0,0,0,0,0,2,7
+2631,house,vipul tatvam villa,sector 48,18.5,26429.0,4,4,1,1.0,,Moderately Old,7000.0,0,0,0,0,0,2,30
+2634,house,independent,sector 36,0.75,6938.0,3,1,0,1.0,,Undefined,1081.0,0,0,0,0,0,2,0
+2638,flat,cghs hewo apartments,sector 31,1.25,11574.0,2,2,2,2.0,,Old Property,1200.0,0,0,0,0,0,2,28
+2642,house,independent,sector 41,9.0,27778.0,8,5,3+,3.0,,Old Property,3240.0,0,1,1,1,0,1,26
+2643,flat,godrej nature plus,sector 33,1.45,15659.0,3,2,3+,20.0,,Undefined,118.0,1,0,0,0,0,2,144
+2647,flat,godrej habitat,sector 3,1.25,8657.0,2,2,3,14.0,,Undefined,1157.0,0,0,0,0,0,2,36
+2653,flat,elan mercado,sector 80,0.85,12409.0,1,1,1,15.0,,Relatively New,761.0,0,0,0,0,0,2,60
+2659,flat,pareena coban residences,sector 99a,1.6,8000.0,3,3,3,6.0,,Under Construction,1800.0,0,0,0,0,0,2,0
+2660,flat,chd avenue,sector 71,1.1,6790.0,3,3,3,11.0,,Relatively New,1458.0,0,0,0,0,1,2,72
+2663,flat,vipul lavanya,sector 81,0.75,5967.0,2,2,2,7.0,,Moderately Old,1397.0,0,0,0,0,0,2,37
+2664,house,independent,sector 12,1.7,9444.0,3,3,0,1.0,,Undefined,200.0,0,0,0,0,0,2,0
+2668,house,independent,sector 4,0.8,11852.0,2,3,1,2.0,,Moderately Old,675.0,0,0,0,0,0,2,0
+2669,flat,paras irene,sector 70a,1.3,9220.0,2,2,3,19.0,,Moderately Old,1422.0,0,0,0,0,0,1,49
+2670,flat,oriental valley chs,sector 9a,1.5,9091.0,4,3,3+,8.0,,Relatively New,1833.0,0,0,0,0,0,1,8
+2671,house,vipul tatvam villa,sector 48,22.0,26667.0,5,6,3,3.0,,Moderately Old,8250.0,0,1,0,0,0,2,54
+2675,house,independent,sector 3 phase 3 extension,1.5,5000.0,6,1,0,1.0,,New Property,3000.0,0,0,0,0,0,2,0
+2677,house,dlf city plots,sector 26,4.0,4531.0,4,3,2,2.0,,Relatively New,8829.0,0,0,0,0,0,1,0
+2680,flat,sare crescent parc,sector 92,0.5,5000.0,2,2,2,2.0,,Relatively New,900.0,0,0,0,0,1,2,72
+2681,flat,mvn athens,sohna road,0.21,4667.0,1,1,1,11.0,,New Property,500.0,0,0,0,0,0,2,16
+2685,flat,laxmi apartment sector 99a gurgaon,sector 99a,0.3,4615.0,2,2,1,4.0,,New Property,598.0,0,0,0,0,0,2,44
+2691,flat,ramsons kshitij,sector 95,0.45,4592.0,2,2,1,2.0,,Relatively New,882.0,1,0,0,0,0,2,89
+2694,flat,sare green parc 2,sector 92,1.07,5245.0,4,3,3,10.0,,Undefined,2040.0,1,1,0,0,0,2,86
+2696,house,independent,sector 17,3.0,11111.0,4,4,0,1.0,,Undefined,3000.0,0,0,0,0,0,2,0
+2699,house,not applicable,sector 4,0.8,6088.0,5,4,3,3.0,,Under Construction,146.0,0,0,0,0,0,2,0
+2702,flat,gls avenue 51,sector 92,0.42,6562.0,3,3,1,2.0,,Relatively New,711.0,0,0,0,0,0,2,20
+2711,house,independent,sector 53,4.65,17574.0,5,5,3+,1.0,,Moderately Old,2646.0,0,0,0,0,0,1,0
+2713,flat,today callidora,sector 73,1.0,7692.0,2,2,2,13.0,,New Property,1444.0,0,0,0,0,0,2,0
+2718,flat,signature global park,sohna road,0.9,8036.0,3,2,No,2.0,,Undefined,1120.0,0,0,0,0,0,2,58
+2722,flat,tulsiani easy in homes,sohna road,0.4,6723.0,2,2,3,12.0,,New Property,661.0,0,0,0,0,0,2,36
+2727,house,unitech uniworld resorts,sector 33,8.0,17778.0,6,5,3+,4.0,,Undefined,4500.0,0,0,0,0,0,2,0
+2729,house,independent,sector 39,1.6,17937.0,1,1,2,2.0,,Old Property,892.0,0,0,0,0,0,2,40
+2731,flat,hcbs sports ville,sohna road,0.29,3973.0,2,2,1,4.0,,Undefined,743.0,0,0,0,0,0,2,0
+2736,flat,m3m capital,sector 113,2.0,12012.0,3,3,2,24.0,,Under Construction,1499.0,0,0,0,0,0,2,47
+2741,flat,bsf chs,gwal pahari,0.95,5938.0,3,3,3,13.0,,Old Property,1778.0,0,0,0,0,0,2,37
+2742,house,independent,sector 8,1.6,3186.0,4,6,1,3.0,,Relatively New,558.0,0,0,0,0,0,2,0
+2743,flat,breez global hill view,sohna road,0.35,5600.0,2,2,2,14.0,,Relatively New,694.0,0,0,0,0,0,2,98
+2746,flat,krisumi waterfall residences,sector 36a,4.1,15501.0,3,4,3,30.0,,New Property,2820.0,1,0,0,0,0,0,49
+2749,flat,signature global orchard avenue,sector 93,0.4,7353.0,2,2,2,11.0,,New Property,604.0,0,0,0,0,0,2,37
+2751,flat,ild grand,sector 37c,1.2,6593.0,3,3,3,7.0,,Undefined,1638.0,0,0,0,0,0,2,24
+2756,flat,m3m sky lofts,sector 71,1.0,11494.0,1,1,1,9.0,,Undefined,869.0,0,0,0,0,0,2,77
+2758,house,independent,sector 13,9.0,11111.0,10,5,3+,4.0,,Old Property,8100.0,0,0,0,0,0,2,0
+2769,flat,zara aavaas,sector 104,0.22,7309.0,1,2,2,2.0,,New Property,335.0,0,0,0,0,0,2,60
+2777,flat,godrej nature plus,sector 33,1.15,11558.0,2,2,2,15.0,,Undefined,103.0,0,0,0,0,0,2,38
+2778,flat,ashiana apartment,sector 23,0.16,2051.0,2,2,2,1.0,,Moderately Old,702.0,0,0,0,0,0,2,0
+2782,house,independent,sector 1,4.75,10556.0,6,7,0,4.0,,Undefined,4500.0,0,0,0,0,0,2,0
+2789,flat,bhagwati sadan,sector 12,1.15,5750.0,3,4,2,2.0,,Old Property,2000.0,1,1,0,0,1,1,28
+2790,flat,m3m soulitude,sector 89,1.3,8701.0,3,3,2,1.0,,New Property,1175.0,0,0,0,0,1,2,45
+2792,flat,sare green parc 2,sector 92,0.61,4837.0,3,2,2,6.0,,Undefined,1135.0,0,0,0,0,1,2,0
+2796,house,independent,sector 39,15.0,33333.0,5,5,3+,4.0,,Moderately Old,4500.0,0,1,0,0,0,1,27
+2798,flat,godrej nature plus,sector 33,1.08,13123.0,2,2,3,8.0,,Undefined,85.0,0,0,0,0,0,2,56
+2804,house,independent,sector 7,0.45,5000.0,3,2,0,1.0,,Undefined,1000.0,0,0,0,0,0,2,0
+2805,flat,supertech basera,sector 79,0.36,7643.0,2,2,1,4.0,,New Property,546.0,0,0,0,0,0,2,60
+2814,flat,chintels paradiso,sector 109,2.0,7605.0,4,4,2,11.0,,Relatively New,2367.0,0,1,0,1,0,2,64
+2816,flat,tulip white,sector 69,0.91,6863.0,3,2,2,12.0,,Moderately Old,1473.0,0,0,0,0,0,2,43
+2819,house,independent,sector 4,0.4,8889.0,1,1,0,1.0,,Moderately Old,450.0,0,0,0,0,0,2,0
+2832,flat,unitech the palms,sector 41,2.75,16768.0,3,3,2,14.0,,Old Property,1640.0,0,0,0,0,0,0,79
+2842,house,ansal florence super,sector 57,3.75,23148.0,3,4,3,2.0,,Moderately Old,1620.0,1,1,1,0,0,1,38
+2843,flat,elan the presidential,sector 106,3.9,15918.0,3,3,No,20.0,,Undefined,2450.0,0,0,0,0,0,2,66
+2849,house,independent,sector 105,0.55,10913.0,2,4,0,2.0,,Undefined,56.0,0,0,0,0,0,2,0
+2855,flat,smart world gems,sector 89,0.86,7797.0,2,3,3,4.0,,Under Construction,993.0,0,0,0,0,0,2,45
+2859,flat,breez global heights,sector 36,0.24,5825.0,1,1,1,8.0,,New Property,458.0,0,0,0,0,0,1,57
+2869,house,independent,sector 26,4.5,33333.0,5,5,3+,2.0,,Old Property,1350.0,0,0,0,0,0,2,7
+2872,flat,allure homes,sector 12,0.72,7273.0,2,2,1,2.0,,Relatively New,1100.0,0,0,0,0,1,1,16
+2875,flat,pareena mi casa,sector 68,1.9,9228.0,3,3,3+,1.0,,Undefined,2288.0,0,1,0,0,0,2,49
+2876,flat,ramsons kshitij,sector 95,0.22,6471.0,1,1,1,2.0,,New Property,306.0,0,0,0,0,0,2,0
+2878,flat,m3m heights,sector 65,2.5,13602.0,3,3,3,19.0,,Undefined,1645.0,0,0,0,0,0,2,48
+2880,house,independent,sector 2,6.0,20000.0,4,4,1,2.0,,Relatively New,3000.0,0,0,0,0,0,2,0
+2882,flat,hcbs sports ville,sohna road,0.22,3143.0,1,1,1,1.0,,New Property,778.0,0,0,0,0,0,2,86
+2883,house,independent,sector 92,1.8,7627.0,4,5,0,13.0,,Undefined,2360.0,0,0,0,0,0,2,0
+2888,flat,ansal heights 86,sector 86,0.64,4706.0,2,2,1,3.0,,New Property,1360.0,0,0,0,0,0,2,73
+2891,flat,spaze privy at,sector 84,1.2,7453.0,2,2,3,3.0,,Relatively New,1449.0,1,0,0,0,0,1,133
+2894,house,independent,sector 37d,2.5,13158.0,5,5,3+,2.0,,Relatively New,1900.0,0,0,0,0,0,2,0
+2899,flat,whiteland  the aspen,sector 76,3.5,11917.0,3,4,3,8.0,,Undefined,2937.0,0,0,0,0,0,2,0
+2901,flat,bhawna cghs,sector 43,3.25,10156.0,4,4,3+,12.0,,Moderately Old,3107.0,0,0,0,1,0,1,119
+2908,flat,rof ananda,sector 95,0.38,6922.0,2,2,1,4.0,,New Property,610.0,0,0,0,0,0,2,0
+2912,flat,trisara our homes 3,sohna road,0.4,4479.0,2,2,2,1.0,,Undefined,900.0,0,0,0,0,0,2,0
+2914,flat,lavanya apartments,sector 81,0.9,5056.0,3,3,No,7.0,,Undefined,1780.0,0,0,0,0,0,2,0
+2916,flat,shri ram apartments,sector 4,0.36,3789.0,2,2,1,4.0,,Relatively New,1056.0,0,0,0,0,0,2,0
+2917,flat,central park flower valley aqua front towers,sector 33,2.96,13871.0,4,4,3,1.0,,New Property,2371.0,0,1,0,0,0,1,24
+2919,flat,ansal housing highland park,sector 103,0.88,6428.0,2,2,3,3.0,,New Property,1225.0,0,0,0,0,0,2,52
+2920,house,independent,sector 12,3.71,19818.0,3,3,1,4.0,,Moderately Old,1872.0,0,0,0,1,0,2,0
+2923,house,independent,sector 81,0.89,8128.0,1,1,0,1.0,,Undefined,1095.0,0,0,0,0,0,2,0
+2924,flat,vatika the seven lamps,sector 82,1.0,6969.0,2,2,2,14.0,,Relatively New,1292.0,1,0,0,0,1,2,69
+2933,flat,signature global park 4,sector 36,0.82,7586.0,3,2,2,2.0,,New Property,848.0,0,0,0,0,0,2,8
+2934,flat,shree balaji appartment,sector 33,0.4,5000.0,2,2,2,1.0,,Relatively New,720.0,0,0,0,0,0,0,0
+2937,flat,smart world gems,sector 89,0.9,8145.0,2,2,2,1.0,,Undefined,1105.0,0,0,0,0,0,2,45
+2939,house,dlf city plots phase 2,sector 25,4.5,33333.0,5,3,2,3.0,,Old Property,1350.0,0,0,1,1,0,2,25
+2941,house,independent,sector 26,5.8,12838.0,4,4,3+,4.0,,Old Property,4518.0,0,0,0,0,0,2,38
+2951,flat,irwo westend towers,sector 47,0.65,12059.0,1,1,2,3.0,,Old Property,599.0,0,0,0,0,0,2,56
+2953,flat,piedmont taksila heights,sector 37c,1.05,4792.0,3,3,3,7.0,,Relatively New,1728.0,0,0,0,0,0,1,81
+2954,flat,godrej nature plus,sector 33,1.25,9025.0,2,2,3,17.0,,Undefined,1385.0,0,0,0,0,0,2,56
+2962,flat,shapoorji pallonji joyville,sector 102,1.1,12022.0,2,2,1,7.0,,Undefined,915.0,0,0,0,0,0,2,0
+2969,house,independent,sector 50,10.55,32562.0,5,5,3,2.0,,Moderately Old,3240.0,1,1,0,0,0,2,42
+2972,flat,sare petioles,sector 92,1.25,6098.0,3,3,3,18.0,,Undefined,2278.0,0,1,0,0,0,2,44
+2974,flat,my home,new sector 2,0.28,3167.0,2,1,1,2.0,,Relatively New,1000.0,0,0,0,0,1,2,15
+2975,flat,umang monsoon breeze,sector 78,0.7,5719.0,2,2,2,5.0,,Undefined,1224.0,0,0,0,0,0,2,0
+2988,flat,ild greens,sector 37c,1.05,7500.0,3,3,3,4.0,,New Property,1500.0,0,0,0,0,0,1,5
+2993,flat,smart world orchard,sector 61,1.6,13913.0,2,2,2,3.0,,Undefined,1278.0,1,0,0,0,0,2,37
+2994,flat,smart world gems,sector 89,1.71,12000.0,3,2,No,3.0,,Undefined,1423.0,0,0,0,0,0,2,45
+2999,flat,bptp astaire gardens,sector 70a,1.6,8658.0,4,4,3,1.0,,Relatively New,1600.0,1,0,0,0,1,2,42
+3001,flat,breez global heights 88a,sector 88a,0.5,8375.0,3,2,2,2.0,,Undefined,663.0,0,0,0,0,0,2,15
+3006,flat,signature global the millennia,sector 37d,0.55,9167.0,2,2,3,3.0,,New Property,610.0,0,0,0,0,0,2,71
+3009,house,independent,sector 9a,4.5,14286.0,9,9,3+,3.0,,Relatively New,3150.0,1,0,0,1,1,1,38
+3017,house,independent,sector 6,1.0,4630.0,6,4,0,3.0,,Undefined,240.0,0,0,0,0,0,2,0
+3018,flat,signature global city,sector 37d,0.68,11724.0,2,2,3,9.0,,New Property,644.0,0,0,0,0,1,2,58
+3019,house,independent,sector 110,0.34,6800.0,1,1,0,1.0,,Undefined,500.0,0,0,0,0,0,2,0
+3022,flat,mvn athens,sohna road,0.27,5895.0,2,2,1,0.0,,Relatively New,508.0,0,0,0,0,0,1,69
+3023,flat,signature andour heights,sector 71,0.39,9848.0,1,1,2,1.0,,New Property,293.0,0,0,0,0,0,2,0
+3026,flat,trisara our homes 3,sohna road,0.38,6312.0,2,2,2,1.0,,Undefined,602.0,0,0,0,0,0,2,0
+3031,flat,shree vardhman victoria,sector 70,1.8,9231.0,3,5,3,0.0,,New Property,2167.0,0,0,0,0,0,2,72
+3032,flat,bestech altura,sector 79,1.9,9000.0,3,4,2,11.0,,New Property,2389.0,0,1,0,0,0,2,49
+3033,flat,experion the heartsong,sector 108,1.36,6542.0,3,2,3+,2.0,,Relatively New,1339.0,1,1,0,0,0,1,77
+3038,flat,bptp astaire gardens,sector 70a,1.2,7059.0,3,3,3+,2.0,,Relatively New,1450.0,0,0,0,0,0,0,38
+3043,flat,godrej meridien,sector 106,3.2,16000.0,3,3,3+,6.0,,Undefined,2224.0,0,1,0,0,0,2,49
+3045,flat,godrej aria,sector 79,1.95,8519.0,3,4,3+,10.0,,New Property,1653.0,0,1,0,0,0,2,32
+3046,house,independent,sector 53,4.0,17778.0,5,5,2,3.0,,Relatively New,2250.0,1,0,0,0,0,2,23
+3047,flat,bestech park view city,sector 49,2.7,12506.0,3,4,3+,6.0,,Moderately Old,2159.0,0,0,0,0,0,2,0
+3048,flat,ansal heights 86,sector 86,0.67,5099.0,2,2,1,10.0,,Relatively New,1224.0,0,0,0,0,0,2,115
+3049,flat,the cocoon,dwarka expressway,2.0,13333.0,3,3,3,5.0,,New Property,1350.0,0,0,0,0,0,2,0
+3052,flat,emaar mgf palm terraces,sector 66,4.5,10598.0,5,5,3+,11.0,,New Property,3303.0,0,1,0,0,0,2,105
+3053,flat,ardee city,sector 52,1.55,7381.0,4,4,3,1.0,,Moderately Old,2100.0,0,0,0,0,0,2,0
+3054,flat,my home,new sector 2,0.22,4400.0,2,2,1,1.0,,New Property,556.0,0,0,0,0,0,1,0
+3055,flat,godrej nature plus,sector 33,1.9,9850.0,3,3,3+,14.0,,New Property,2143.0,0,1,0,0,0,2,96
+3059,flat,smart world gems,sector 89,1.0,9033.0,2,2,2,1.0,,Under Construction,1230.0,1,0,0,0,0,2,38
+3064,flat,greenopolis,sector 89,0.8,4819.0,2,3,3,8.0,,Undefined,1494.0,1,0,0,0,1,2,60
+3065,flat,signature global park 4,sector 36,0.72,6660.0,3,2,3,3.0,,Undefined,973.0,0,0,0,0,0,2,0
+3066,flat,cghs vidya enclave,sector 56,1.7,10968.0,3,2,3,6.0,,Old Property,1581.0,0,0,1,0,0,2,101
+3073,flat,signature global park,sohna road,0.65,7295.0,2,2,3,1.0,,New Property,822.0,0,0,0,0,0,2,58
+3075,house,independent,sector 108,1.34,5000.0,1,1,0,1.0,,Undefined,2680.0,0,0,0,0,0,2,0
+3083,flat,hcbs sports ville,sohna road,0.29,5588.0,2,2,1,4.0,,Relatively New,577.0,0,0,0,0,0,2,44
+3088,house,independent,sector 43,2.15,13030.0,1,1,0,1.0,,Undefined,1650.0,0,0,0,0,0,2,0
+3094,flat,smart world orchard,sector 61,1.57,13652.0,2,2,2,3.0,,New Property,1150.0,1,0,0,0,1,2,71
+3096,flat,shapoorji pallonji joyville gurugram,sector 102,1.42,10380.0,2,2,3,14.0,,Undefined,1368.0,0,0,0,0,0,2,0
+3099,flat,puri emerald bay,sector 104,1.5,9677.0,2,2,2,7.0,,Undefined,1395.0,0,0,0,0,1,2,43
+3103,flat,spaze privvy the address,sector 93,1.25,5700.0,4,4,3,16.0,,Relatively New,2105.0,0,0,0,0,0,2,0
+3105,house,independent,sector 14,4.6,20444.0,1,1,0,1.0,,Undefined,2250.0,0,0,0,0,0,2,0
+3106,house,independent,sector 7,1.75,11111.0,4,2,2,2.0,,Old Property,1575.0,0,0,0,0,1,2,31
+3107,flat,sare crescent parc,sector 92,0.65,4597.0,3,3,3,3.0,,Moderately Old,1571.0,0,0,0,0,0,2,44
+3108,flat,godrej oasis,sector 88a,1.15,9854.0,2,2,1,12.0,,New Property,120.0,1,0,0,0,0,2,79
+3112,house,independent,sector 3,0.6,6000.0,1,1,0,1.0,,Undefined,1000.0,0,0,0,0,0,2,0
+3118,flat,sare crescent parc,sector 92,0.7,5556.0,3,3,2,14.0,,Undefined,140.0,0,0,0,0,0,2,38
+3124,flat,ansal heights 86,sector 86,0.95,5621.0,3,2,1,6.0,,New Property,1878.0,0,0,0,0,0,2,15
+3125,flat,signature global park,sohna road,0.87,7190.0,3,2,3,4.0,,Undefined,1210.0,0,0,0,0,0,2,58
+3134,flat,project krishna colony,sector 7,0.36,5143.0,2,2,1,0.0,,Relatively New,700.0,0,0,0,0,0,2,0
+3136,flat,sidhartha ncr greens,sector 95,0.6,5576.0,2,2,2,14.0,,Relatively New,968.0,1,0,0,0,0,2,31
+3137,flat,signature global the millennia,sector 37d,0.6,9231.0,2,2,3,7.0,,New Property,624.0,0,0,0,0,0,2,35
+3138,flat,m3m golfestate,sector 65,6.15,18287.0,3,3,3,23.0,,Moderately Old,3019.0,1,1,0,0,0,1,60
+3143,house,experion windchants3.8 â˜…,sector 112,9.5,23457.0,5,5,3,2.0,,Relatively New,7450.0,0,1,0,0,0,2,45
+3146,flat,breez global heights,sohna road,0.21,5330.0,1,1,1,2.0,,Relatively New,438.0,0,0,0,0,0,2,21
+3157,flat,orris carnation residency,sector 85,0.9,6429.0,3,3,2,12.0,,Relatively New,1402.0,0,0,0,0,0,2,120
+3158,house,independent,sector 56,8.0,9654.0,10,10,3+,4.0,,Relatively New,8286.0,1,1,0,1,0,0,107
+3159,house,independent,sector 8,0.82,10224.0,2,4,0,2.0,,Undefined,891.0,0,0,0,0,0,2,0
+3168,flat,signature global park,sohna road,0.83,7411.0,3,2,2,1.0,,New Property,1244.0,0,0,0,0,0,2,16
+3170,flat,gls arawali homes,sohna road,0.3,5291.0,2,2,No,10.0,,Undefined,567.0,0,0,0,0,0,2,0
+3171,flat,signature global the millennia,sector 37d,0.55,9167.0,2,2,3,3.0,,New Property,540.0,0,0,0,0,0,2,53
+3173,flat,emaar mgf emerald floors premier,sector 65,2.8,16970.0,3,3,3+,3.0,,Relatively New,1650.0,1,1,0,0,0,1,38
+3174,flat,mvn athens,sohna road,0.26,5394.0,2,2,1,2.0,,Relatively New,535.0,0,0,0,0,0,2,37
+3179,flat,m3m the marina,sector 68,1.45,9615.0,3,2,3+,9.0,,New Property,1357.0,0,0,0,0,0,2,0
+3180,flat,the pearl apartmen,sector 15,0.43,5584.0,2,2,1,2.0,,Relatively New,856.0,0,0,0,0,0,1,28
+3181,flat,the arzoo cghs,sector 51,2.1,9130.0,4,4,3,1.0,,Relatively New,2300.0,0,0,0,0,0,2,58
+3184,flat,hcbs sports ville,sohna road,0.32,5517.0,2,2,1,7.0,,New Property,644.0,0,0,0,0,0,2,37
+3188,flat,breez global heights,sohna road,0.28,7143.0,1,1,1,4.0,,New Property,443.0,0,0,0,0,0,0,26
+3194,flat,la vida by tata housing,sector 113,2.48,14091.0,3,3,3+,8.0,,New Property,1980.0,0,1,0,0,0,2,79
+3197,house,independent,sohna road road,0.49,4261.0,2,2,1,3.0,,New Property,1150.0,0,0,0,0,0,2,0
+3200,house,independent,sector 3 phase 3 extension,0.75,6410.0,2,2,0,1.0,,Undefined,130.0,0,0,0,0,0,2,0
+3202,flat,satya element one,sector 49,0.8,11111.0,1,1,1,0.0,,Undefined,720.0,0,0,0,0,0,2,0
+3204,flat,emaar mgf palm studios,sector 66,1.7,13503.0,2,2,2,7.0,,Relatively New,1067.0,0,0,0,0,1,2,99
+3207,flat,godrej,sector 79,1.41,8998.0,2,2,3,3.0,,New Property,1747.0,1,0,0,0,0,2,104
+3208,flat,microtek greenburg,sector 86,1.3,8754.0,2,2,3,10.0,,Relatively New,1332.0,1,0,0,0,0,2,38
+3211,flat,m3m heights,sector 65,2.78,15200.0,3,3,3,44.0,,Undefined,1829.0,0,0,0,0,0,2,56
+3214,flat,tata primanti,sector 72,4.1,13726.0,3,3,3,8.0,,Moderately Old,2295.0,0,1,0,0,0,2,38
+3224,house,independent,sector 7,1.35,4545.0,4,5,0,3.0,,Undefined,330.0,0,0,0,0,0,2,0
+3239,flat,umang winter hills,sector 77,0.86,6408.0,2,2,2,16.0,,New Property,1208.0,0,0,0,0,0,1,79
+3243,flat,bptp freedom park life,sector 57,2.5,11111.0,3,3,3,9.0,,Moderately Old,2025.0,0,0,0,0,0,2,55
+3253,flat,signature global city 81,sector 81,0.96,9766.0,2,2,2,1.0,,Undefined,1194.0,0,0,0,0,0,2,49
+3254,flat,emaar mgf emerald floors,sector 65,3.2,10159.0,4,3,2,1.0,,Relatively New,3150.0,0,1,0,0,0,2,0
+3265,flat,sobha city,sector 108,3.35,13267.0,3,4,2,19.0,,New Property,2525.0,0,0,0,0,0,2,102
+3267,flat,smart world orchard,sector 61,2.6,14723.0,3,3,2,2.0,,New Property,1766.0,0,0,0,0,0,2,47
+3270,flat,smart world orchard,sector 61,1.7,15004.0,2,2,2,4.0,,Undefined,1278.0,0,0,0,0,0,2,24
+3276,house,independent,sector 105,0.6,13333.0,3,3,0,3.0,,Undefined,450.0,0,0,0,0,0,2,0
+3283,flat,supertech hues,sector 68,0.8,6780.0,2,2,3+,14.0,,New Property,1180.0,0,0,0,0,0,1,26
+3286,house,jacob pura,sector 12,0.35,9722.0,2,1,0,2.0,,Old Property,360.0,0,0,0,0,0,2,0
+3287,flat,awho sispal vihar,sector 49,2.0,7262.0,4,3,3+,4.0,,Old Property,2479.0,0,0,0,0,0,2,65
+3288,flat,hsiidc sidco aravali,manesar,0.9,3648.0,4,4,3,7.0,,Moderately Old,2221.0,0,0,0,0,0,2,0
+3291,flat,la vida by tata housing,sector 113,1.93,12223.0,3,3,2,8.0,,Under Construction,1421.0,0,0,0,0,0,2,71
+3294,flat,pareena mi casa,sector 68,1.7,8500.0,4,4,3+,23.0,,New Property,1799.0,0,0,0,0,0,2,88
+3296,flat,m3m crown,sector 111,4.67,17000.0,4,4,3+,8.0,,Undefined,3056.0,0,0,0,0,0,2,73
+3298,flat,godrej air,sector 85,2.6,12212.0,3,3,3,17.0,,Undefined,2129.0,0,1,0,0,0,2,44
+3300,house,independent,sector 9,1.25,8735.0,3,6,3+,3.0,,Old Property,1431.0,0,0,0,0,0,2,0
+3302,flat,gls arawali homes,sohna road,0.32,6723.0,2,1,No,0.0,,Undefined,476.0,0,0,0,0,0,2,0
+3303,flat,breez global heights,sohna road,0.39,4105.0,2,2,2,3.0,,Relatively New,720.0,0,0,0,0,0,2,0
+3307,flat,parsvnath exotica,sector 53,5.0,17241.0,3,4,3,7.0,,Old Property,3222.0,0,1,0,0,0,1,24
+3309,flat,ashiana anmol,sohna road,0.93,7294.0,2,2,2,9.0,,Undefined,1000.0,0,0,0,0,1,2,31
+3311,flat,bhagwati sadan,sector 12,1.15,5500.0,3,4,2,2.0,,Old Property,2000.0,0,1,0,0,1,2,0
+3312,flat,sidhartha ncr greens,sector 95,0.96,6202.0,3,3,3,8.0,,New Property,1720.0,0,0,1,1,0,2,8
+3316,house,independent,sector 25,13.0,45710.0,6,8,3+,2.0,,Relatively New,2844.0,1,1,1,1,0,0,0
+3318,house,independent,sector 11,0.44,4251.0,3,2,1,1.0,,Relatively New,128.0,0,0,0,1,1,2,46
+3322,house,independent,sector 11,1.2,4444.0,7,3,0,3.0,,Undefined,300.0,0,0,0,0,0,2,0
+3323,flat,smart world orchard,sector 61,2.3,14110.0,3,3,2,2.0,,Undefined,1467.0,1,0,0,0,0,2,79
+3325,flat,godrej air,sector 85,1.8,13139.0,3,3,3,30.0,,Undefined,141.0,0,0,0,0,0,2,45
+3326,flat,ats triumph,sector 104,1.8,7860.0,3,4,3,14.0,,New Property,2544.0,0,0,0,0,0,2,60
+3328,house,independent,sector 12,1.7,8000.0,5,5,3,3.0,,Moderately Old,2000.0,0,0,0,1,1,2,9
+3336,flat,m3m capital,sector 113,3.25,14143.0,4,4,3+,34.0,,Undefined,2553.0,1,1,0,1,0,2,115
+3342,flat,sare green parc phase 3,sector 92,0.7,5279.0,3,2,2,4.0,,Relatively New,1325.0,0,0,0,0,0,2,56
+3350,flat,sare crescent parc,sector 92,1.44,7069.0,4,4,3,8.0,,Relatively New,2267.0,0,0,0,0,0,2,37
+3356,flat,avl 36 gurgaon,sector 36a,0.45,9000.0,1,1,1,9.0,,Relatively New,450.0,0,0,0,0,0,2,0
+3358,house,unitech espace,sector 50,11.29,34846.0,5,5,3+,2.0,,Moderately Old,3240.0,1,0,0,1,0,2,21
+3364,flat,global hill view,sector 11,0.36,5150.0,2,2,No,15.0,,Undefined,699.0,0,0,0,0,0,2,0
+3365,flat,shapoorji pallonji joyville gurugram,sector 102,2.5,13998.0,3,3,3,15.0,,Undefined,1644.0,0,0,0,0,0,2,151
+3366,flat,adani aangan arcade,sector 88a,0.45,7200.0,2,2,1,3.0,,New Property,694.0,0,0,0,0,0,2,14
+3370,flat,godrej oasis,sector 88a,1.0,6897.0,2,2,3,7.0,,Relatively New,1611.0,1,0,0,0,0,2,72
+3371,house,vatika signature villas,sector 82,3.2,14350.0,3,4,3,1.0,,New Property,2160.0,1,1,1,1,0,2,66
+3376,house,independent,sector 4,0.85,7522.0,3,3,0,1.0,,Undefined,1130.0,0,0,0,0,0,2,0
+3381,flat,essel tower,sector 28,2.2,12500.0,3,4,3+,3.0,,Moderately Old,1956.0,0,1,0,0,0,0,0
+3383,flat,breez global hill view,sohna road,0.35,5319.0,2,2,2,18.0,,New Property,658.0,0,0,0,0,0,2,15
+3392,house,independent,sector 46,5.5,23061.0,8,8,3+,3.0,,Moderately Old,2385.0,1,0,0,0,1,1,32
+3395,flat,unitech sunbreeze,sector 69,1.0,5476.0,4,3,No,0.0,,Undefined,1826.0,0,0,0,0,0,2,0
+3400,house,independent,sector 24,6.5,22855.0,4,4,2,2.0,,Old Property,2844.0,0,0,0,1,0,2,35
+3401,flat,mittal surya vihar,sector 21,0.8,7080.0,2,2,2,6.0,,Old Property,1256.0,0,0,0,0,0,2,0
+3402,flat,godrej habitat,sector 3,1.3,9003.0,2,2,2,6.0,,Under Construction,1604.0,0,0,0,0,0,2,36
+3404,flat,signature global park,sohna road,0.54,6506.0,2,2,1,2.0,,Relatively New,922.0,0,0,0,0,0,2,16
+3406,flat,antriksh heights,sector 84,0.88,4822.0,3,3,3,16.0,,Relatively New,1643.0,0,0,0,1,0,2,67
+3414,flat,satya element one,sector 49,0.87,19333.0,1,1,1,2.0,,Relatively New,500.0,0,0,0,0,0,2,22
+3416,house,suncity essel towers4.2 â˜…,sector 28,8.95,17900.0,5,6,3+,4.0,,Moderately Old,5000.0,0,0,0,0,0,2,0
+3417,house,ansal sushant lok plots4.1 â˜…,sector 43,11.5,17692.0,7,8,3+,3.0,,Old Property,9000.0,0,1,1,1,0,1,31
+3420,flat,trisara our homes 3,sohna road,0.21,4339.0,1,1,No,2.0,,Undefined,484.0,0,0,0,0,0,2,0
+3422,house,independent,sector 70a,2.1,3889.0,3,2,1,3.0,,New Property,667.0,0,0,0,0,0,2,0
+3425,flat,zara aavaas,sector 104,0.4,7030.0,2,2,1,14.0,,Relatively New,512.0,0,0,0,0,0,2,38
+3426,flat,umang monsoon breeze,sector 78,0.69,5391.0,2,2,2,11.0,,Moderately Old,1422.0,0,0,0,0,0,2,60
+3427,house,not applicable,sector 4,0.4,9259.0,1,1,1,1.0,,Moderately Old,432.0,0,0,0,0,0,2,0
+3432,house,independent,sector 21,0.45,8411.0,3,2,1,1.0,,Undefined,594.0,0,0,0,0,0,2,0
+3433,flat,ild greens,sector 37c,1.0,4724.0,3,3,3,3.0,,Undefined,1620.0,0,0,0,0,0,2,51
+3437,flat,godrej nature plus,sector 33,1.75,8768.0,3,3,No,2.0,,Undefined,1996.0,0,0,0,0,0,2,56
+3439,flat,signature global solera,sector 107,0.25,7862.0,1,1,No,0.0,,Undefined,318.0,0,0,0,0,0,2,55
+3442,flat,trisara our homes 3,sohna road,0.34,5405.0,2,2,1,0.0,,New Property,699.0,0,0,0,0,0,2,0
+3444,flat,m3m skycity,sector 65,2.8,15317.0,3,3,No,14.0,,Undefined,1828.0,0,0,0,0,0,2,39
+3449,house,independent,sector 7,1.0,8818.0,2,2,0,0.0,,Old Property,126.0,1,0,0,0,0,2,7
+3451,flat,smart world orchard,sector 61,1.47,12250.0,2,2,2,2.0,,Undefined,1333.0,1,0,0,0,0,2,76
+3453,flat,smart world gems,sector 89,1.01,9157.0,2,2,2,4.0,,Undefined,1226.0,1,0,0,0,0,2,38
+3457,house,independent,sector 3,0.9,8929.0,3,3,0,2.0,,Undefined,112.0,0,0,0,0,0,2,0
+3459,flat,godrej nature plus,sector 33,1.35,8671.0,3,2,3+,17.0,,New Property,1401.0,0,0,0,0,0,2,38
+3462,flat,central park flower valley aqua front towers,sector 33,2.1,11738.0,3,3,2,6.0,,Undefined,1610.0,0,0,0,0,0,2,24
+3464,flat,godrej air,sector 85,1.4,10000.0,2,2,3,23.0,,Undefined,1400.0,0,0,0,0,0,2,44
+3465,flat,smart world gems,sector 89,1.1,9973.0,2,2,2,3.0,,New Property,1226.0,0,0,1,0,0,2,77
+3467,flat,maruti vihar colony,sector 28,0.95,8887.0,2,1,1,1.0,,Old Property,1188.0,0,0,0,0,0,2,59
+3469,house,signature global city 63a,sector 63,1.5,6289.0,3,3,2,1.0,,New Property,2385.0,0,0,0,0,0,2,0
+3470,house,ninex city,sector 76,1.75,6250.0,4,4,0,14.0,,Undefined,3111.0,0,0,0,0,0,2,0
+3472,flat,m3m woodshire,sector 107,0.9,6589.0,2,2,3+,14.0,,New Property,1230.0,0,0,0,0,0,2,67
+3473,flat,g l s arawali homes,sohna road,0.26,4514.0,2,2,2,1.0,,Moderately Old,518.0,0,0,0,0,0,2,0
+3478,house,independent,sector 9,0.22,7407.0,2,2,2,1.0,,Undefined,37.0,0,0,0,0,0,2,0
+3483,flat,smart world gems,sector 89,1.13,8503.0,3,3,2,4.0,,Undefined,1473.0,1,0,0,0,0,2,115
+3484,flat,indiabulls centrum park,sector 103,1.65,8250.0,3,3,3+,15.0,,Relatively New,1678.0,1,0,0,0,0,2,38
+3489,flat,godrej icon,sector 88a,1.65,9041.0,3,3,3,12.0,,New Property,1643.0,0,0,0,0,0,2,60
+3490,flat,bestech park view city,sector 48,4.25,9335.0,4,5,3+,14.0,,Moderately Old,4098.0,1,0,0,0,0,1,81
+3497,flat,m3m soulitude,sector 89,1.42,9979.0,3,3,2,3.0,,New Property,1581.0,0,0,0,0,0,2,15
+3499,house,spaze privy3.9 â˜…,sector 72,3.1,8486.0,5,5,3+,21.0,,Relatively New,3653.0,0,0,0,0,0,2,0
+3505,flat,ardee city,sector 52,1.5,9146.0,4,4,3,3.0,,Old Property,1476.0,0,0,0,0,0,2,65
+3508,flat,south city 1 floors,sector 41,3.4,11724.0,4,4,3,0.0,,Undefined,2900.0,0,0,0,0,0,2,0
+3513,flat,central park flower valley,sohna road,1.2,6742.0,3,3,No,11.0,,Undefined,1780.0,0,0,0,0,0,2,66
+3514,flat,ambience creacions,sector 22,3.99,12913.0,3,5,3+,3.0,,New Property,2781.0,0,1,0,0,0,0,102
+3515,flat,ramprastha skyz,sector 37d,1.0,4943.0,3,5,3,11.0,,Undefined,1823.0,0,1,0,0,1,2,8
+3517,flat,godrej air,sector 85,1.83,10005.0,3,3,3+,18.0,,Undefined,2032.0,0,0,0,0,0,2,110
+3530,house,independent,sector 9,0.5,6083.0,3,2,1,1.0,,Undefined,822.0,0,0,0,0,0,2,0
+3531,flat,suncity avenue 76,sector 76,0.75,10204.0,2,2,2,11.0,,Under Construction,662.0,0,0,0,0,0,2,57
+3539,flat,aipl zen residences,sector 70a,1.25,9905.0,2,2,2,19.0,,New Property,1402.0,0,0,0,0,0,2,42
+3541,flat,signature global city 92,sector 92,0.99,9074.0,3,2,3,1.0,,Undefined,1091.0,0,0,0,0,0,2,24
+3543,flat,signature global park,sohna road,0.75,6938.0,2,2,No,1.0,,Undefined,1081.0,0,0,0,0,0,2,58
+3544,house,independent,sector 109,1.55,6568.0,3,2,0,1.0,,Undefined,2360.0,0,0,0,0,0,2,0
+3546,house,vatika sovereign next,sector 82a,3.85,7500.0,5,6,3+,6.0,,Undefined,5140.0,0,0,0,0,0,2,53
